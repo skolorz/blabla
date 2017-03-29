@@ -4,125 +4,125 @@
     "description": "Spotify P01AB2FCB6",
     "counterpartyaccountholder": "Spotify Stockholm, SE",
     "freq": 25,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "#inv",
     "counterpartyaccountholder": "#ElectricCompany",
     "freq": 100,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "#inv",
     "counterpartyaccountholder": "#WaterCompany",
     "freq": 100,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "#inv",
     "counterpartyaccountholder": "National Gas Company, Warszawa",
     "freq": 40,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
-    "description": "#baby monthly fee",
+    "description": "#baby, monthly fee",
     "counterpartyaccountholder": "Kindergarden #nr #city",
     "freq": 15,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
-    "description": "#baby tuition fee",
+    "description": "#baby, tuition fee",
     "counterpartyaccountholder": "#city Private Shool",
     "freq": 2,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "#inv",
     "counterpartyaccountholder": "#gsmCompany",
     "freq": 60,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "#inv",
     "counterpartyaccountholder": "#satTv",
     "freq": 50,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "Live insurance customer #long",
     "counterpartyaccountholder": "#insuranceCompany",
     "freq": 2,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "#foreignLang",
     "counterpartyaccountholder": "#langSchool",
     "freq": 7,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "monthly fee",
     "counterpartyaccountholder": "#fitness",
     "freq": 11,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "CARD PAYMENT",
     "description": "subscription  #inv",
     "counterpartyaccountholder": "NETFLIX CA, USA",
     "freq": 22,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "subscription  #inv",
     "counterpartyaccountholder": "#internetProvider",
     "freq": 33,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "#name subscription",
     "counterpartyaccountholder": "CinemaCity Polska S.A.",
     "freq": 5,
-    "field5": ""
+    "amount": 200
   },
   {
-    "transactiontype": "ZAKUP PRZY U�YCIU KARTY",
+    "transactiontype": "CARD PAYMENT",
     "description": "Origin Access subscription #long",
     "counterpartyaccountholder": "Electronic Arts Retail CA, USA",
     "freq": 5,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "gadgets subscription",
     "counterpartyaccountholder": "Pixel-Box  S.A. Warszawa",
     "freq": 3,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "rent for an apartment #inv",
     "counterpartyaccountholder": "#landlord",
     "freq": 80,
-    "field5": ""
+    "amount": 200
   },
   {
     "transactiontype": "TRANSFER",
     "description": "parking place rent",
     "counterpartyaccountholder": "#landlord",
     "freq": 5,
-    "field5": ""
+    "amount": 200
   }
 ]

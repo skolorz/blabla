@@ -19,7 +19,9 @@
     "iban": "0.0.8",
     "json-csv": "^1.4.0",
     "jsonfile": "^2.4.0",
+    "lodash": "^4.17.4",
     "moment": "^2.18.1",
-    "numeral": "^2.0.6"
+    "numeral": "^2.0.6",
+    "random-js": "^1.0.8"
   }
 }

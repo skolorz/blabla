@@ -1,11 +1,13 @@
 const   moment = require("moment"),
+        _ = require("lodash"),
         random = require("random-js")();
 const   monthlyTransPatterns = require("./monthly-spendings.json"),
+        monthlyTransPatterns = require("./monthly-spendings.json"),
         startDate = moment("2015-05-01"),
         endDate = moment("2017-05-12");
 const   
         examples = { 
-            foreignLang:["English lessons", "", "język polski", "German lessons", "French lessons"],
+            foreignLang:["English course", "", "język polski", "German course", "French course"],
             invPrefix: ["", "", "Customer no ", "Invoice ", "Bill number ", "Invoice "],
             firstName: ["Anna", "Jan", "Julia", "Stefan"],
             city: ["Bytom", "Katowice", "Sosnowiec", "Warszawa"],
@@ -29,7 +31,7 @@ var period = startDate.clone(),
     m,
     generators = {},
     user = {city: "Katowice", name: "Adam Kroll" },
-    patterns;
+    patterns, transactions, result;
 
 generators.baby = function (){
     return random.pick(examples.firstName) + " " + user.name.match(/\w+ (\w+)/)[1];
@@ -45,7 +47,7 @@ generators.inv = function(){
     return random.pick(examples.invPrefix) 
             + "#long"
             + random.pick(["/",":","","-"])
-            + random.pick(["#long",random.integer(10,1000),period.format("YYYY")]);
+            + random.pick(["#long",random.integer(10,1000), "#year"]);
 }
 
 function replaceKeys(t){
@@ -55,6 +57,10 @@ function replaceKeys(t){
     }
     if (text.match(/#nr/)){
         text = text.replace("#nr", random.integer(1,50));
+    }
+
+    if (text.match(/#year/)){
+        text = text.replace("#year", period.format("YYYY"));
     }
     if (text.match(/#long/)){
         text = text.replace("#long", random.integer(1000,500000));
@@ -76,6 +82,8 @@ function replaceKeys(t){
 
 patterns = monthlyTransPatterns.filter(p => true || p.freq > random.integer(0,100));
 patterns = patterns.map(p => {
+    p.amount = random.integer(90, 110) * p.amount / 100;
+    p.day = random.integer(0, 28);
     p.description = replaceKeys(p.description);
     p.counterpartyaccountholder = replaceKeys(p.counterpartyaccountholder);
     p.counterpartyaccountholder = replaceKeys(p.counterpartyaccountholder);
@@ -84,9 +92,25 @@ patterns = patterns.map(p => {
 });
 
 while (period.isBefore(endDate)){
-
+    var i = 60 * 6,
+        day,
+        daysInMonth =  period.daysInMonth();
+    transactions = patterns.map(_.clone)
+                .map(t => {
+                    day = t.day || random.integer(0, daysInMonth);
+                    t.date = period.clone().add(day, "day"); 
+                    i = i + 30;
+                    t.date.add(i, "minute");
+                    delete t.day;
+                    return t;})
+                .map(t => { 
+                    t.amount = t.constAmount || random.integer(90, 110) * t.amount / 100;
+                    t.description = replaceKeys(t.description);
+                    t.description = replaceKeys(t.description);
+                    return t;
+                })
+    result = transactions.concat(result);
     period = period.add(1, 'month');
 }
 
-console.log(patterns);
-
+console.log(result);
