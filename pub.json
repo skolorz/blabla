@@ -1,0 +1,2891 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-03-28T13:28:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/588142273",
+      "properties": {
+        "@id": "node/588142273",
+        "amenity": "pub",
+        "cuisine": "pizza",
+        "name": "Black&White"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9144842,
+          50.3439358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/592288369",
+      "properties": {
+        "@id": "node/592288369",
+        "amenity": "pub",
+        "name": "Pub 14",
+        "opening_hours": "Mo-Th 14:00-23:00; Fr, Sa 14:00-02:00; Su 00:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9248245,
+          50.3467547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/592288399",
+      "properties": {
+        "@id": "node/592288399",
+        "amenity": "pub",
+        "name": "Enter Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9251879,
+          50.3479978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598179850",
+      "properties": {
+        "@id": "node/598179850",
+        "amenity": "pub",
+        "name": "Gotyk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9235256,
+          50.347933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/648973519",
+      "properties": {
+        "@id": "node/648973519",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9067273,
+          50.3561515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/778112937",
+      "properties": {
+        "@id": "node/778112937",
+        "amenity": "pub",
+        "name": "Szuflada 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9516038,
+          50.2971662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/799212242",
+      "properties": {
+        "@id": "node/799212242",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "7a",
+        "addr:street": "Aleja Tadeusza Kościuszki",
+        "amenity": "pub",
+        "name": "Pub Partia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1869892,
+          50.3266348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/799214339",
+      "properties": {
+        "@id": "node/799214339",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "2",
+        "addr:street": "Górników Redenu",
+        "amenity": "pub",
+        "name": "Planeta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1893893,
+          50.3254613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/853072685",
+      "properties": {
+        "@id": "node/853072685",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9602342,
+          50.2370308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1076148751",
+      "properties": {
+        "@id": "node/1076148751",
+        "amenity": "pub",
+        "name": "Stara Brama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0184066,
+          50.2591207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1076148771",
+      "properties": {
+        "@id": "node/1076148771",
+        "amenity": "pub",
+        "name": "Pod Siódemką"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0181153,
+          50.2603396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1153540197",
+      "properties": {
+        "@id": "node/1153540197",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8963679,
+          50.3399909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1318568074",
+      "properties": {
+        "@id": "node/1318568074",
+        "amenity": "pub",
+        "email": "kontakt@pubsportowy.pl",
+        "name": "Pub \"Sportowy\"",
+        "opening_hours": "Su-Th 17:00-24:00; Fr-Sa 17:00-03:00",
+        "phone": "889 110 110;511 132 014",
+        "website": "http://www.pubsportowy.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1908438,
+          50.3205226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329334961",
+      "properties": {
+        "@id": "node/1329334961",
+        "amenity": "pub",
+        "name": "AlterSide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2771434,
+          50.2033504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1333193390",
+      "properties": {
+        "@id": "node/1333193390",
+        "amenity": "pub",
+        "name": "Bar 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2087599,
+          50.3610305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1361483978",
+      "properties": {
+        "@id": "node/1361483978",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9065549,
+          50.3477384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1369445313",
+      "properties": {
+        "@id": "node/1369445313",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8893996,
+          50.3357748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1481073843",
+      "properties": {
+        "@id": "node/1481073843",
+        "addr:housename": "Raciborska 11",
+        "addr:housenumber": "11",
+        "addr:postcode": "40-074",
+        "addr:street": "Raciborska",
+        "amenity": "pub",
+        "email": "niebopub@gmail.com",
+        "internet_access": "wlan",
+        "name": "Niebo",
+        "opening_hours": "Mo-Fr 10:00-22:00; Sa-Su 17:00-22:00",
+        "website": "http://niebopub.katowice.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0092205,
+          50.2549765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1485248691",
+      "properties": {
+        "@id": "node/1485248691",
+        "amenity": "pub",
+        "name": "Jazzclub Hipnoza",
+        "website": "http://www.jazzclub.pl/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0231219,
+          50.2529549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1490583344",
+      "properties": {
+        "@id": "node/1490583344",
+        "amenity": "pub",
+        "name": "Baxter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0626376,
+          50.2244765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1511638109",
+      "properties": {
+        "@id": "node/1511638109",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "15",
+        "addr:street": "3 Maja",
+        "amenity": "pub",
+        "name": "Pub Komitywa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.184033,
+          50.323093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1518019344",
+      "properties": {
+        "@id": "node/1518019344",
+        "addr:city": "Katowice",
+        "addr:housenumber": "1",
+        "addr:postcode": "40-102",
+        "addr:street": "Złota",
+        "amenity": "pub",
+        "name": "Korba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9925686,
+          50.272138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1534217851",
+      "properties": {
+        "@id": "node/1534217851",
+        "amenity": "pub",
+        "name": "Grand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.900658,
+          50.275689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557330874",
+      "properties": {
+        "@id": "node/1557330874",
+        "amenity": "pub",
+        "name": "Bar Rowerownia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2392886,
+          50.2924696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1561806710",
+      "properties": {
+        "@id": "node/1561806710",
+        "amenity": "pub",
+        "name": "Tawerna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0642348,
+          50.3136184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1578620345",
+      "properties": {
+        "@id": "node/1578620345",
+        "amenity": "pub",
+        "name": "Pub Zaścianek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9253169,
+          50.3463701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1581517839",
+      "properties": {
+        "@id": "node/1581517839",
+        "amenity": "pub",
+        "name": "Traffic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0958624,
+          50.3028647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1581517850",
+      "properties": {
+        "@id": "node/1581517850",
+        "amenity": "pub",
+        "name": "Eurobistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.072206,
+          50.3167417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1581517888",
+      "properties": {
+        "@id": "node/1581517888",
+        "amenity": "pub",
+        "name": "Art-Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0722178,
+          50.3213182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1581517900",
+      "properties": {
+        "@id": "node/1581517900",
+        "amenity": "pub",
+        "name": "Biały Domek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0728438,
+          50.3218601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607601671",
+      "properties": {
+        "@id": "node/1607601671",
+        "amenity": "pub",
+        "name": "Pub Rodeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1968163,
+          50.3220913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1631008737",
+      "properties": {
+        "@id": "node/1631008737",
+        "amenity": "pub",
+        "name": "LOKAL ALIBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2762836,
+          50.2006993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1649214313",
+      "properties": {
+        "@id": "node/1649214313",
+        "amenity": "pub",
+        "name": "Podex",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8716656,
+          50.2749779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1662120180",
+      "properties": {
+        "@id": "node/1662120180",
+        "addr:city": "Katowice",
+        "addr:housenumber": "75",
+        "addr:postcode": "40-694",
+        "addr:street": "Śląska",
+        "amenity": "pub",
+        "beer_garden": "yes",
+        "contact:website": "http://www.panorama-klub.pl",
+        "food": "yes",
+        "name": "Klub Panorama",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9580446,
+          50.2172999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1674377543",
+      "properties": {
+        "@id": "node/1674377543",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9832453,
+          50.2436463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1717533066",
+      "properties": {
+        "@id": "node/1717533066",
+        "amenity": "pub",
+        "name": "Pab Lewe",
+        "website": "http://www.pablewe.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9407274,
+          50.1793198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1717850329",
+      "properties": {
+        "@id": "node/1717850329",
+        "amenity": "pub",
+        "name": "Fraktal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8998538,
+          50.1707575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740232218",
+      "properties": {
+        "@id": "node/1740232218",
+        "addr:city": "Mikołów",
+        "addr:housenumber": "16",
+        "addr:postcode": "43-190",
+        "addr:street": "Krakowska",
+        "amenity": "pub",
+        "name": "Pub Baxter",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "smoking": "outside",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9067053,
+          50.1673913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740232484",
+      "properties": {
+        "@id": "node/1740232484",
+        "addr:city": "Mikołów",
+        "addr:housenumber": "8",
+        "addr:postcode": "43-190",
+        "addr:street": "Rynek",
+        "amenity": "pub",
+        "name": "Trąbka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9046967,
+          50.1685694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1770241277",
+      "properties": {
+        "@id": "node/1770241277",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1669943,
+          50.2915846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772722289",
+      "properties": {
+        "@id": "node/1772722289",
+        "amenity": "pub",
+        "name": "Kormoran",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8810442,
+          50.2709658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772864480",
+      "properties": {
+        "@id": "node/1772864480",
+        "amenity": "pub",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8739981,
+          50.2871757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1773377023",
+      "properties": {
+        "@id": "node/1773377023",
+        "addr:city": "Ruda Śląska",
+        "addr:country": "PL",
+        "addr:housenumber": "4",
+        "addr:postcode": "41-717",
+        "addr:street": "Sikorek",
+        "amenity": "pub",
+        "name": "Daniel's Pub",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8849898,
+          50.2717287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1773382606",
+      "properties": {
+        "@id": "node/1773382606",
+        "addr:city": "Ruda Śląska",
+        "addr:country": "PL",
+        "addr:housenumber": "18",
+        "addr:postcode": "41-710",
+        "addr:street": "Szyb Andrzeja",
+        "amenity": "pub",
+        "name": "Aqwarium",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8817108,
+          50.2722018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1774434516",
+      "properties": {
+        "@id": "node/1774434516",
+        "addr:city": "Ruda Śląska",
+        "addr:country": "PL",
+        "addr:housenumber": "25B",
+        "addr:postcode": "40-717",
+        "addr:street": "Gwarecka",
+        "amenity": "pub",
+        "name": "Drink Bar",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8868847,
+          50.2672541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1775031271",
+      "properties": {
+        "@id": "node/1775031271",
+        "addr:city": "Katowice",
+        "addr:country": "PL",
+        "addr:housenumber": "5",
+        "addr:postcode": "40-014",
+        "addr:street": "Mariacka",
+        "amenity": "pub",
+        "name": "Lorneta z Meduzą",
+        "opening_hours": "24/7",
+        "smoking": "no",
+        "source": "OSM Tracker, knowledge",
+        "website": "http://lornetazmeduza.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0254299,
+          50.2573977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1775981899",
+      "properties": {
+        "@id": "node/1775981899",
+        "addr:city": "Katowice",
+        "addr:country": "PL",
+        "addr:housenumber": "13",
+        "addr:postcode": "40-014",
+        "addr:street": "Mariacka",
+        "amenity": "pub",
+        "name": "KATO.Bar",
+        "opening_hours": "Mo-Su 00:00-02:00,12:00-24:00",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0263588,
+          50.2573348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1775981900",
+      "properties": {
+        "@id": "node/1775981900",
+        "addr:city": "Katowice",
+        "addr:country": "PL",
+        "addr:housenumber": "3",
+        "addr:postcode": "40-014",
+        "addr:street": "Mariacka",
+        "amenity": "pub",
+        "name": "Klub Galeria Niegrzeczni",
+        "smoking": "no",
+        "source": "OSM Tracker, knowledge",
+        "website": "http://niegrzeczni.tv/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.025189,
+          50.2574107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1775994471",
+      "properties": {
+        "@id": "node/1775994471",
+        "addr:city": "Katowice",
+        "addr:country": "PL",
+        "addr:housenumber": "16",
+        "addr:postcode": "40-014",
+        "addr:street": "Mariacka",
+        "amenity": "pub",
+        "name": "Pub Śruba",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0268662,
+          50.2575505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1777822619",
+      "properties": {
+        "@id": "node/1777822619",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "3",
+        "addr:street": "Stanisława Skibińskiego",
+        "amenity": "pub",
+        "name": "Drink Bar Piramida",
+        "phone": "32 262 29 36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1911425,
+          50.3260349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1778291106",
+      "properties": {
+        "@id": "node/1778291106",
+        "amenity": "pub",
+        "name": "Kalosz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1346263,
+          50.2399441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1790031901",
+      "properties": {
+        "@id": "node/1790031901",
+        "amenity": "pub",
+        "name": "Gwarek",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.930476,
+          50.3448128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792405794",
+      "properties": {
+        "@id": "node/1792405794",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9284944,
+          50.3279866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1798957568",
+      "properties": {
+        "@id": "node/1798957568",
+        "amenity": "pub",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Angelo",
+        "smoking": "no",
+        "source": "OSM Tracker, knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8908731,
+          50.2727673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1798957569",
+      "properties": {
+        "@id": "node/1798957569",
+        "amenity": "pub",
+        "name": "City Pub",
+        "source": "OSM Tracker, knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8962816,
+          50.2683955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1798957624",
+      "properties": {
+        "@id": "node/1798957624",
+        "amenity": "pub",
+        "email": "onik4m@gmail.com",
+        "name": "Bar U Glusia",
+        "opening_hours": "Mo-Fr 12:00+; Sa,Su 12:00+",
+        "phone": "792 001 394",
+        "source": "OSM Tracker, knowledge, Bing",
+        "website": "http://www.glus.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8940023,
+          50.2700977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1801855407",
+      "properties": {
+        "@id": "node/1801855407",
+        "amenity": "pub",
+        "name": "Piwosz",
+        "opening_hours": "10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3193582,
+          50.3282826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1810340644",
+      "properties": {
+        "@id": "node/1810340644",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8817473,
+          50.3192656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1811640529",
+      "properties": {
+        "@id": "node/1811640529",
+        "amenity": "pub",
+        "name": "Bar piwny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.883867,
+          50.3141667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1811662756",
+      "properties": {
+        "@id": "node/1811662756",
+        "amenity": "pub",
+        "name": "Familia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8836872,
+          50.3133654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1817593100",
+      "properties": {
+        "@id": "node/1817593100",
+        "addr:housenumber": "22",
+        "addr:postcode": "40-062",
+        "addr:street": "Jana Kilińskiego",
+        "amenity": "pub",
+        "name": "Atmoklub",
+        "phone": "+48322018606",
+        "website": "http://atmoklub.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0130098,
+          50.2542952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1818769455",
+      "properties": {
+        "@id": "node/1818769455",
+        "amenity": "pub",
+        "name": "Koneser",
+        "source": "OSM Tracker, knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9238563,
+          50.2872623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1821448528",
+      "properties": {
+        "@id": "node/1821448528",
+        "amenity": "pub",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Pod Łososiem",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8661363,
+          50.2720644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1831310351",
+      "properties": {
+        "@id": "node/1831310351",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2567967,
+          50.2148694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855071415",
+      "properties": {
+        "@id": "node/1855071415",
+        "amenity": "pub",
+        "name": "Klub Czelsi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0661386,
+          50.3069146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1868232243",
+      "properties": {
+        "@id": "node/1868232243",
+        "amenity": "pub",
+        "name": "Pub",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9748003,
+          50.2258462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1868232244",
+      "properties": {
+        "@id": "node/1868232244",
+        "amenity": "pub",
+        "internet_access": "no",
+        "name": "SOKO",
+        "smoking": "no",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9655122,
+          50.2249346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1885668023",
+      "properties": {
+        "@id": "node/1885668023",
+        "amenity": "pub",
+        "name": "Pub",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9496956,
+          50.2764939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1886727296",
+      "properties": {
+        "@id": "node/1886727296",
+        "addr:city": "Katowice",
+        "addr:housenumber": "10",
+        "addr:street": "Gliwicka",
+        "amenity": "pub",
+        "entrance": "yes",
+        "name": "LongMan",
+        "phone": "032 25 37 862",
+        "website": "http://www.longman.katowice.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0104759,
+          50.260838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1889362510",
+      "properties": {
+        "@id": "node/1889362510",
+        "amenity": "pub",
+        "name": "Pub",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9001072,
+          50.2707693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1936297744",
+      "properties": {
+        "@id": "node/1936297744",
+        "amenity": "pub",
+        "name": "Absynt Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2016257,
+          50.3277654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1936297745",
+      "properties": {
+        "@id": "node/1936297745",
+        "amenity": "pub",
+        "name": "Pub Gondola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1957517,
+          50.3285903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1940474043",
+      "properties": {
+        "@id": "node/1940474043",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "30",
+        "addr:street": "Stefana Batorego",
+        "amenity": "pub",
+        "name": "PUB Za Ostatni Grosz",
+        "opening_hours": "Mo-Su 10:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9384602,
+          50.2720497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1948697716",
+      "properties": {
+        "@id": "node/1948697716",
+        "amenity": "pub",
+        "name": "Bar",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9016456,
+          50.2524449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1951870540",
+      "properties": {
+        "@id": "node/1951870540",
+        "amenity": "pub",
+        "name": "Radiola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2399127,
+          50.2985498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1990628409",
+      "properties": {
+        "@id": "node/1990628409",
+        "amenity": "pub",
+        "name": "Blender"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9232059,
+          50.3488923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2006221763",
+      "properties": {
+        "@id": "node/2006221763",
+        "amenity": "pub",
+        "name": "Wunder Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0212828,
+          50.2560222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007146767",
+      "properties": {
+        "@id": "node/2007146767",
+        "amenity": "pub",
+        "name": "Parkowy Bonito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0418529,
+          50.1931495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2061411065",
+      "properties": {
+        "@id": "node/2061411065",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9148838,
+          50.3113838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2093369698",
+      "properties": {
+        "@id": "node/2093369698",
+        "amenity": "pub",
+        "name": "PUB",
+        "source": "OSM Tracker, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8745775,
+          50.2835799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2115988164",
+      "properties": {
+        "@id": "node/2115988164",
+        "amenity": "pub",
+        "name": "Cantharus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9573082,
+          50.228855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2116889006",
+      "properties": {
+        "@id": "node/2116889006",
+        "amenity": "pub",
+        "name": "Caro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0440106,
+          50.2021248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2125977963",
+      "properties": {
+        "@id": "node/2125977963",
+        "amenity": "pub",
+        "name": "Irish Pub",
+        "source": "zVID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9014362,
+          50.3481375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2185895615",
+      "properties": {
+        "@id": "node/2185895615",
+        "addr:city": "Jaworzno",
+        "addr:housenumber": "50",
+        "addr:postcode": "43-600",
+        "addr:street": "Towarowa",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Club Corner",
+        "source": "Bing",
+        "website": "http://www.clubcorner.pl/index.php?go=1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2523342,
+          50.2116114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2187499132",
+      "properties": {
+        "@id": "node/2187499132",
+        "amenity": "pub",
+        "name": "Matik 24h",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8960327,
+          50.2689579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2187499198",
+      "properties": {
+        "@id": "node/2187499198",
+        "addr:city": "Ruda Śląska",
+        "addr:country": "PL",
+        "addr:housenumber": "5a",
+        "addr:postcode": "41-717",
+        "addr:street": "Emila Szramka",
+        "amenity": "pub",
+        "building": "yes",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Ognik",
+        "smoking": "no",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8986205,
+          50.2653641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2189422414",
+      "properties": {
+        "@id": "node/2189422414",
+        "addr:city": "Bytom",
+        "addr:housenumber": "113",
+        "addr:postcode": "41-907",
+        "addr:street": "Zabrzańska",
+        "amenity": "pub",
+        "name": "Pub Krokodyl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8861824,
+          50.3375418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272305185",
+      "properties": {
+        "@id": "node/2272305185",
+        "amenity": "pub",
+        "name": "Ministerstwo Śledzia i Wódki",
+        "source": "Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2757894,
+          50.2037806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2277289396",
+      "properties": {
+        "@id": "node/2277289396",
+        "amenity": "pub",
+        "name": "Wehikuł Czasu",
+        "source": "Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2774837,
+          50.2037218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2281028912",
+      "properties": {
+        "@id": "node/2281028912",
+        "amenity": "pub",
+        "source": "Bing, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2753944,
+          50.2054168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2281028915",
+      "properties": {
+        "@id": "node/2281028915",
+        "amenity": "pub",
+        "name": "2-ka",
+        "source": "Bing, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2753383,
+          50.2055752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2288351975",
+      "properties": {
+        "@id": "node/2288351975",
+        "amenity": "pub",
+        "name": "Żaczek",
+        "source": "Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2775464,
+          50.2039265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2293693732",
+      "properties": {
+        "@id": "node/2293693732",
+        "amenity": "pub",
+        "name": "Lech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9892309,
+          50.2671468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2322887149",
+      "properties": {
+        "@id": "node/2322887149",
+        "amenity": "pub",
+        "highway": "traffic_mirror",
+        "name": "na kancie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2533434,
+          50.2000752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2326211027",
+      "properties": {
+        "@id": "node/2326211027",
+        "addr:city": "Katowice",
+        "addr:housenumber": "18a",
+        "addr:street": "Mariacka",
+        "amenity": "pub",
+        "name": "Katofonia",
+        "website": "http://katofonia.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0271935,
+          50.2575059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2331525071",
+      "properties": {
+        "@id": "node/2331525071",
+        "addr:city": "Sosnowiec",
+        "addr:housenumber": "22",
+        "addr:street": "Stanisława Małachowskiego",
+        "amenity": "pub",
+        "name": "Księgarnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1314879,
+          50.2768852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2382611540",
+      "properties": {
+        "@id": "node/2382611540",
+        "amenity": "pub",
+        "name": "Pub Na Rycerskiej",
+        "website": "http://www.pubnarycerskiej.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9254802,
+          50.3470019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2383155270",
+      "properties": {
+        "@id": "node/2383155270",
+        "amenity": "pub",
+        "name": "Alfa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9241696,
+          50.3488724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2383155272",
+      "properties": {
+        "@id": "node/2383155272",
+        "amenity": "pub",
+        "name": "Bar 64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9237587,
+          50.3489325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2392453940",
+      "properties": {
+        "@id": "node/2392453940",
+        "amenity": "pub",
+        "name": "Rybaczówka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9175872,
+          50.235088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2412914773",
+      "properties": {
+        "@id": "node/2412914773",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0444531,
+          50.3106063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2463786646",
+      "properties": {
+        "@id": "node/2463786646",
+        "addr:city": "Katowice",
+        "addr:housenumber": "33",
+        "addr:postcode": "40-225",
+        "addr:street": "1 Maja",
+        "amenity": "pub",
+        "name": "klub 33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0430099,
+          50.2585556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2487921252",
+      "properties": {
+        "@id": "node/2487921252",
+        "amenity": "pub",
+        "name": "Country Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1872987,
+          50.3213215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489184275",
+      "properties": {
+        "@id": "node/2489184275",
+        "amenity": "pub",
+        "name": "Pub \"Grand Canyon\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1678881,
+          50.3169547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2493692061",
+      "properties": {
+        "@id": "node/2493692061",
+        "amenity": "pub",
+        "name": "Pub Sofa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1773221,
+          50.322968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2531459927",
+      "properties": {
+        "@id": "node/2531459927",
+        "amenity": "pub",
+        "name": "Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2154544,
+          50.3213769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2534721872",
+      "properties": {
+        "@id": "node/2534721872",
+        "amenity": "pub",
+        "email": "klub@gramoffon.pl",
+        "name": "Gramoffon",
+        "opening_hours": "16:00-23:00",
+        "phone": "+48 721 360 246",
+        "website": "http://www.gramoffon.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9835499,
+          50.1264128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2535175654",
+      "properties": {
+        "@id": "node/2535175654",
+        "amenity": "pub",
+        "name": "Galeria Riksza Pub",
+        "shop": "art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0849753,
+          50.2435752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2566852622",
+      "properties": {
+        "@id": "node/2566852622",
+        "amenity": "pub",
+        "description": "Głównie piwa z polskich browarów, Zawiercie, Raciborskie, Baltika, Obłoń itp. Wybór raczej mały",
+        "email": "poczta@teorii.pl",
+        "name": "Teoria",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "phone": "536 966 913",
+        "short_name": "piwa regionalne",
+        "website": "http://www.teorii.pl/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0217044,
+          50.2577837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2577166862",
+      "properties": {
+        "@id": "node/2577166862",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2022427,
+          50.3238011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2626375099",
+      "properties": {
+        "@id": "node/2626375099",
+        "amenity": "pub",
+        "name": "JOY CAFE-BISTRO-DANCING CLUB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9030624,
+          50.1703615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2682496985",
+      "properties": {
+        "@id": "node/2682496985",
+        "addr:city": "Katowice",
+        "addr:housenumber": "38",
+        "addr:street": "3 Maja",
+        "amenity": "pub",
+        "contact:email": "info@bialamalpa.pl",
+        "contact:phone": "+48 881 228 048",
+        "description": "Pijalnia piwa",
+        "name": "Biała Małpa",
+        "opening_hours": "Mo-Th 12:00-24:00; Fr 12:00-24:00; Sa 00:00-01:00,14:00-24:00; Su 00:00-01:00,16:00-24:00",
+        "website": "http://www.bialamalpa.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0164412,
+          50.2593864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2686482831",
+      "properties": {
+        "@id": "node/2686482831",
+        "amenity": "pub",
+        "name": "Mocca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0060995,
+          50.2546453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2694360411",
+      "properties": {
+        "@id": "node/2694360411",
+        "amenity": "pub",
+        "name": "Bar Akwarium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9165415,
+          50.2927098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2781481289",
+      "properties": {
+        "@id": "node/2781481289",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "1",
+        "addr:postcode": "41-500",
+        "addr:street": "Aleja Muzyków",
+        "amenity": "pub",
+        "contact:email": "klub@lesniczowka.art.pl",
+        "contact:phone": "519356150",
+        "name": "Leśniczówka Rock'n'Roll Cafe",
+        "website": "http://lesniczowka.art.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9883284,
+          50.2929362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2831121904",
+      "properties": {
+        "@id": "node/2831121904",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2338598,
+          50.3315785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2927431818",
+      "properties": {
+        "@id": "node/2927431818",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1271661,
+          50.2712158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2943843688",
+      "properties": {
+        "@id": "node/2943843688",
+        "amenity": "pub",
+        "name": "Mini-Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2018772,
+          50.3240818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2949798274",
+      "properties": {
+        "@id": "node/2949798274",
+        "amenity": "pub",
+        "name": "Żywiec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9870919,
+          50.1120312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2949806498",
+      "properties": {
+        "@id": "node/2949806498",
+        "amenity": "pub",
+        "name": "Palisander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9861493,
+          50.1120382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2949810033",
+      "properties": {
+        "@id": "node/2949810033",
+        "amenity": "pub",
+        "name": "Czeski film"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9863612,
+          50.1119487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2949810198",
+      "properties": {
+        "@id": "node/2949810198",
+        "amenity": "pub",
+        "name": "Gambrinus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9860993,
+          50.1118968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2952231167",
+      "properties": {
+        "@id": "node/2952231167",
+        "amenity": "pub",
+        "name": "Klub Bowlingowy (kręgle)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1932658,
+          50.31925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2955070919",
+      "properties": {
+        "@id": "node/2955070919",
+        "addr:city": "Sosnowiec",
+        "addr:street": "Naftowa",
+        "amenity": "pub",
+        "name": "Kafejka u Jędrusia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1230792,
+          50.2687862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2957200024",
+      "properties": {
+        "@id": "node/2957200024",
+        "amenity": "pub",
+        "name": "Pub \"Joker\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.181146,
+          50.3231492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2957201024",
+      "properties": {
+        "@id": "node/2957201024",
+        "amenity": "pub",
+        "name": "Pub \"Kac Vegas\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1819266,
+          50.3231701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2957202914",
+      "properties": {
+        "@id": "node/2957202914",
+        "amenity": "pub",
+        "name": "Klub \"PRL\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1840934,
+          50.3236413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3006654074",
+      "properties": {
+        "@id": "node/3006654074",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "9h",
+        "addr:street": "Waleriana Łukasińskiego",
+        "amenity": "pub",
+        "name": "Pub Zielony",
+        "source:addr": "EMUiA (emuia.gugik.gov.pl)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1764678,
+          50.3239527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3020771792",
+      "properties": {
+        "@id": "node/3020771792",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0273227,
+          50.2339982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3107758266",
+      "properties": {
+        "@id": "node/3107758266",
+        "amenity": "pub",
+        "name": "Caro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1244055,
+          50.2930292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3118033077",
+      "properties": {
+        "@id": "node/3118033077",
+        "amenity": "pub",
+        "name": "Pod Kasztanem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1753158,
+          50.3247163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214704686",
+      "properties": {
+        "@id": "node/3214704686",
+        "amenity": "pub",
+        "name": "Strefa Centralna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0235642,
+          50.2529423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3298847535",
+      "properties": {
+        "@id": "node/3298847535",
+        "amenity": "pub",
+        "email": "pijalnia@interia.pl",
+        "name": "Stara Pogoń - Pijalnia Piwa",
+        "opening_hours": "Mo-Th 10:00-22:00; Fr 10:00-1:00; Sa 14:00-1:00; Su 14:00-22:00",
+        "website": "https://www.facebook.com/starapogon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1313925,
+          50.2894086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3350722552",
+      "properties": {
+        "@id": "node/3350722552",
+        "amenity": "pub",
+        "name": "Bistro Klubowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0255352,
+          50.2573869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3355801159",
+      "properties": {
+        "@id": "node/3355801159",
+        "amenity": "pub",
+        "name": "Synergia",
+        "website": "http://synergiaclub.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0225902,
+          50.2528609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3355801162",
+      "properties": {
+        "@id": "node/3355801162",
+        "amenity": "pub",
+        "description": "duży wybór piw regionalnych, Raciborskie, Svijany, Litovel Dark, Bernard, Ciechan, Lubuskie, Alebrowar, Pinta, Ursa",
+        "email": "markoblondi@poczta.onet.pl",
+        "internet_access": "yes",
+        "name": "Klub Podróżników - Namaste",
+        "opening_hours": "Tu-Th 16:00-24:00; Fr-Sa 16:00-1:00; Su 16:00-24:00",
+        "phone": "503 451 704",
+        "short_name": "piwa regionalne",
+        "website": "http://www.namaste.katowice.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0102618,
+          50.2599395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3360242310",
+      "properties": {
+        "@id": "node/3360242310",
+        "amenity": "pub",
+        "name": "INQbator Club",
+        "website": "http://www.inq.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0241568,
+          50.2572456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3360242311",
+      "properties": {
+        "@id": "node/3360242311",
+        "amenity": "pub",
+        "name": "Klub C4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0243686,
+          50.2563178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3471150215",
+      "properties": {
+        "@id": "node/3471150215",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0435165,
+          50.1983634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3599872750",
+      "properties": {
+        "@id": "node/3599872750",
+        "amenity": "pub",
+        "name": "Pub Kominiarz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0241455,
+          50.2563395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3684289908",
+      "properties": {
+        "@id": "node/3684289908",
+        "addr:city": "Katowice",
+        "addr:housenumber": "11",
+        "addr:postcode": "40-015",
+        "addr:street": "Francuska",
+        "amenity": "pub",
+        "name": "Browariat",
+        "website": "http://browariat.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0276562,
+          50.2561136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3700840306",
+      "properties": {
+        "@id": "node/3700840306",
+        "amenity": "pub",
+        "name": "Geneza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0357738,
+          50.2576389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3711887894",
+      "properties": {
+        "@id": "node/3711887894",
+        "addr:city": "Mikołów",
+        "addr:housenumber": "10",
+        "addr:postcode": "43-190",
+        "addr:street": "Karola Miarki",
+        "amenity": "pub",
+        "email": "mikocraftbeerbar@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Miko Craft Beer Bar",
+        "opening_hours": "Mo off; Tu-Th 14:00-22:00; Fr-Sa 14:00-00:00; Su 15:00-21:00",
+        "phone": "+48 533 778 831",
+        "smoking": "no",
+        "website": "https://www.facebook.com/mikocbb/about/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9019901,
+          50.1699903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3749039845",
+      "properties": {
+        "@id": "node/3749039845",
+        "amenity": "pub",
+        "name": "Kontynuacja",
+        "website": "https://www.facebook.com/KontynuacjaKatowice",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0291885,
+          50.2571402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3780916367",
+      "properties": {
+        "@id": "node/3780916367",
+        "addr:city": "Katowice",
+        "addr:housenumber": "3",
+        "addr:street": "Dworcowa",
+        "amenity": "pub",
+        "name": "Absurdalna",
+        "opening_hours": "Mo-Th 00:00-00:30,15:00-24:00; Fr 15:00-24:00; Sa 00:00-02:30,15:00-24:00; Su 00:00-02:30,16:00-24:00",
+        "phone": "+48 794 960 320",
+        "smoking": "no",
+        "website": "http://www.absurdalna.pl",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0230433,
+          50.2576744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3781371135",
+      "properties": {
+        "@id": "node/3781371135",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "microbrewery": "no",
+        "name": "Kredens Pub",
+        "opening_hours": "Mo-Tu 08:00-00:00, Fr-Su 08:00-02:00; Sa 08:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+48 32 785 91 63",
+        "smoking": "separated",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0314744,
+          50.2551403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3822609814",
+      "properties": {
+        "@id": "node/3822609814",
+        "addr:city": "Katowice",
+        "addr:housenumber": "5",
+        "addr:street": "Świętego Stanisława",
+        "amenity": "pub",
+        "name": "Mały Kredens",
+        "phone": "+48 32 720 62 86",
+        "website": "https://www.facebook.com/Pub-Ma%C5%82y-Kredens-186618951394458/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0261349,
+          50.2581725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519757",
+      "properties": {
+        "@id": "node/3920519757",
+        "amenity": "pub",
+        "name": "Bellmer Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0120339,
+          50.259786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3938554356",
+      "properties": {
+        "@id": "node/3938554356",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9079732,
+          50.1716713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4133676892",
+      "properties": {
+        "@id": "node/4133676892",
+        "amenity": "pub",
+        "name": "Allboom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0440926,
+          50.2583595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4200371591",
+      "properties": {
+        "@id": "node/4200371591",
+        "amenity": "pub",
+        "cuisine": "pizza",
+        "name": "Pizzeria Pub Dworzec Wyry",
+        "phone": "(32) 219-77-36",
+        "website": "http://www.dworzecwyry.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9111023,
+          50.1246625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4227823901",
+      "properties": {
+        "@id": "node/4227823901",
+        "addr:city": "Bytom",
+        "addr:postcode": "41-907",
+        "amenity": "pub",
+        "name": "Bar Piwny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9076254,
+          50.3406579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4266597389",
+      "properties": {
+        "@id": "node/4266597389",
+        "amenity": "pub",
+        "name": "After pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0583602,
+          50.2590917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4275190139",
+      "properties": {
+        "@id": "node/4275190139",
+        "addr:city": "Katowice",
+        "addr:housenumber": "8",
+        "addr:postcode": "40-139",
+        "addr:street": "Tomasza Kotlarza",
+        "amenity": "pub",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Pizzeria Biesiadowo",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr-Sa 11:00-00:00; Su 12:00-22:00",
+        "phone": "+48 517 126 746",
+        "takeaway": "yes",
+        "website": "http://biesiadowo.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0090097,
+          50.2791484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4301245690",
+      "properties": {
+        "@id": "node/4301245690",
+        "addr:street": "Plac Pod Lipami",
+        "amenity": "pub",
+        "name": "\"Arena\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0645268,
+          50.2215842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4306420693",
+      "properties": {
+        "@id": "node/4306420693",
+        "amenity": "pub",
+        "name": "Veranda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9898892,
+          50.2063832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4306422499",
+      "properties": {
+        "@id": "node/4306422499",
+        "amenity": "pub",
+        "name": "Kapsel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9861508,
+          50.2083813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4335479910",
+      "properties": {
+        "@id": "node/4335479910",
+        "amenity": "pub",
+        "name": "Pub Baltoro",
+        "opening_hours": "Mo-Th 14:00-23:00; Fr 14:00-24:00; Sa 00:00-01:00,14:00-24:00; Su 00:00-01:00,14:00-23:00",
+        "phone": "537 789 988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1329129,
+          50.3230913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4340382133",
+      "properties": {
+        "@id": "node/4340382133",
+        "amenity": "pub",
+        "name": "na kancie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1579996,
+          50.2041189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4365516490",
+      "properties": {
+        "@id": "node/4365516490",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.936293,
+          50.2641571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4404644294",
+      "properties": {
+        "@id": "node/4404644294",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9634429,
+          50.1173165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448553007",
+      "properties": {
+        "@id": "node/4448553007",
+        "addr:housenumber": "25/13",
+        "addr:street": "3 Maja",
+        "amenity": "pub",
+        "description": "A pub stylized as American Civil War. Your own black powder gun = discount",
+        "name": "Dixie Bar",
+        "opening_hours": "Mo-Su 13:00-01:00",
+        "phone": "880 146 140",
+        "website": "www.facebook.com/trzezwegomaja23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0166871,
+          50.2601509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4730547935",
+      "properties": {
+        "@id": "node/4730547935",
+        "addr:housenumber": "20",
+        "addr:street": "Jana Pawła II",
+        "amenity": "pub",
+        "name": "Klubokawiarnia Cynamon",
+        "opening_hours": "Mo-Su 17:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9884039,
+          50.1115839
+        ]
+      }
+    }
+  ]
+}

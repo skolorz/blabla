@@ -1,0 +1,4787 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-03-28T12:59:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/449676082",
+      "properties": {
+        "@id": "node/449676082",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Multibank",
+        "operator": "MultiBank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9204461,
+          50.3478556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462324529",
+      "properties": {
+        "@id": "node/462324529",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9255665,
+          50.3489479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462358650",
+      "properties": {
+        "@id": "node/462358650",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank BZ WBK",
+        "opening_hours": "Mo-Fr 09:30-17:00",
+        "operator": "BZWBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9247804,
+          50.3465596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462358729",
+      "properties": {
+        "@id": "node/462358729",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Alior Bank",
+        "operator": "Alior Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9205824,
+          50.3478186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476584806",
+      "properties": {
+        "@id": "node/476584806",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Pekao S.A.",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.067746,
+          50.2262402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595654409",
+      "properties": {
+        "@id": "node/595654409",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9077678,
+          50.3491849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602553193",
+      "properties": {
+        "@id": "node/602553193",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kasa Stefczyka",
+        "operator": "SKOK Stewczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9040852,
+          50.1688505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602553194",
+      "properties": {
+        "@id": "node/602553194",
+        "addr:city": "Mikołów",
+        "addr:housenumber": "6",
+        "addr:postcode": "43-190",
+        "addr:street": "Rynek",
+        "amenity": "bank",
+        "atm": "yes",
+        "drive_through": "no",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20431",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Millenium Bank S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9047715,
+          50.1688832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602553195",
+      "properties": {
+        "@id": "node/602553195",
+        "addr:housenumber": "12",
+        "addr:postcode": "43-190",
+        "addr:street": "Rynek",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Crédit Agricole",
+        "operator": "Lukas Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9042473,
+          50.168688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602553196",
+      "properties": {
+        "@id": "node/602553196",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Kopernik",
+        "operator": "SKOK Kopernik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9038195,
+          50.1695688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/778574531",
+      "properties": {
+        "@id": "node/778574531",
+        "addr:city": "Mysłowice",
+        "addr:housenumber": "1",
+        "addr:postcode": "41-400",
+        "addr:street": "Plac Wolności",
+        "amenity": "bank",
+        "name": "ING Bank Slaski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1418248,
+          50.2420844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/778574632",
+      "properties": {
+        "@id": "node/778574632",
+        "addr:city": "Mysłowice",
+        "addr:country": "PL",
+        "addr:housenumber": "12",
+        "addr:postcode": "41-400",
+        "addr:street": "Mikołowska",
+        "amenity": "bank",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1347836,
+          50.2391468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/799212528",
+      "properties": {
+        "@id": "node/799212528",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "3",
+        "addr:street": "Jana III Sobieskiego",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Invest Bank - Oddział",
+        "operator": "Invest Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1853652,
+          50.3253664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/799214534",
+      "properties": {
+        "@id": "node/799214534",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "19",
+        "addr:street": "Aleja Tadeusza Kościuszki",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1873058,
+          50.3235676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/799216058",
+      "properties": {
+        "@id": "node/799216058",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "14",
+        "addr:street": "3 Maja",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Pekao",
+        "operator": "Pekao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.18346,
+          50.3238782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/805051332",
+      "properties": {
+        "@id": "node/805051332",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO Bank Polski, Oddział 5 w Dąbrowie Górniczej",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2128269,
+          50.3179585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/877806115",
+      "properties": {
+        "@id": "node/877806115",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "operator": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9178419,
+          50.3460397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/877806133",
+      "properties": {
+        "@id": "node/877806133",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.91806,
+          50.3462706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790194",
+      "properties": {
+        "@id": "node/935790194",
+        "addr:city": "Sosnowiec",
+        "addr:housenumber": "6",
+        "addr:street": "Warszawska",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20793",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1276029,
+          50.2778182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790364",
+      "properties": {
+        "@id": "node/935790364",
+        "addr:city": "Katowice",
+        "addr:housenumber": "4",
+        "addr:street": "Wawelska",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20422",
+        "millennium:usługi": "Millennium, Biznes, PRESTIGE, Centrum Finansowe",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.019828,
+          50.2590348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790885",
+      "properties": {
+        "@id": "node/935790885",
+        "addr:city": "Katowice",
+        "addr:housenumber": "20",
+        "addr:street": "Adama Mickiewicza",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20650",
+        "millennium:usługi": "Millennium",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0188556,
+          50.2608385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935794403",
+      "properties": {
+        "@id": "node/935794403",
+        "addr:city": "Bytom",
+        "addr:housenumber": "11",
+        "addr:street": "Dworcowa",
+        "amenity": "bank",
+        "atm": "yes",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20444",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9176558,
+          50.3456011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935795472",
+      "properties": {
+        "@id": "node/935795472",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "13",
+        "addr:street": "3 Maja",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20428",
+        "millennium:usługi": "Millennium",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1838041,
+          50.3233066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935796198",
+      "properties": {
+        "@id": "node/935796198",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "40",
+        "addr:street": "Wolności",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20441",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9496754,
+          50.2955078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797066",
+      "properties": {
+        "@id": "node/935797066",
+        "addr:city": "Katowice",
+        "addr:housenumber": "2",
+        "addr:street": "Stanisława Moniuszki",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20556",
+        "millennium:usługi": "Millennium",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0228731,
+          50.2609123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797158",
+      "properties": {
+        "@id": "node/935797158",
+        "addr:city": "Będzin",
+        "addr:housenumber": "32",
+        "addr:street": "Stanisława Małachowskiego",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20436",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1339005,
+          50.3217934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935799535",
+      "properties": {
+        "@id": "node/935799535",
+        "addr:city": "Katowice",
+        "addr:housenumber": "26",
+        "addr:street": "Tadeusza Kościuszki",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20424",
+        "millennium:usługi": "Millennium",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0171242,
+          50.2538864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800288",
+      "properties": {
+        "@id": "node/935800288",
+        "addr:city": "Katowice",
+        "addr:housenumber": "107",
+        "addr:street": "Chorzowska",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20812",
+        "millennium:usługi": "Millennium, Biznes",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0059998,
+          50.2697693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800917",
+      "properties": {
+        "@id": "node/935800917",
+        "addr:city": "Siemianowice Śląskie",
+        "addr:housenumber": "8",
+        "addr:street": "Śląska",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20443",
+        "millennium:usługi": "Millennium",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0312,
+          50.3026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801443",
+      "properties": {
+        "@id": "node/935801443",
+        "addr:city": "Katowice",
+        "addr:housenumber": "13",
+        "addr:street": "3 Maja",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20416",
+        "millennium:usługi": "Millennium",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0187924,
+          50.2596729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802261",
+      "properties": {
+        "@id": "node/935802261",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "47",
+        "addr:street": "Piotra Niedurnego",
+        "amenity": "bank",
+        "atm": "yes",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20420",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "source": "OSM Tracker, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8758943,
+          50.2843919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802712",
+      "properties": {
+        "@id": "node/935802712",
+        "addr:city": "Mysłowice",
+        "addr:housenumber": "1",
+        "addr:street": "Grunwaldzka",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20435",
+        "millennium:usługi": "Millennium",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1398,
+          50.2441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935803388",
+      "properties": {
+        "@id": "node/935803388",
+        "addr:city": "Katowice",
+        "addr:housenumber": "2",
+        "addr:street": "Plac doktora Józefa Rostka",
+        "amenity": "bank",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20417",
+        "millennium:usługi": "Millennium",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0109793,
+          50.2552487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1076148732",
+      "properties": {
+        "@id": "node/1076148732",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Pekao SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0181382,
+          50.2598187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1126998127",
+      "properties": {
+        "@id": "node/1126998127",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8918518,
+          50.3380002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1142546011",
+      "properties": {
+        "@id": "node/1142546011",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8876501,
+          50.3349743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1260091837",
+      "properties": {
+        "@id": "node/1260091837",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Spółdzielczy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0822107,
+          50.2439835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1279674270",
+      "properties": {
+        "@id": "node/1279674270",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "ING Bank Śląski",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9819078,
+          50.2102037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1298279821",
+      "properties": {
+        "@id": "node/1298279821",
+        "amenity": "bank",
+        "name": "BZ WBK",
+        "source": "Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2738,
+          50.2010079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328450812",
+      "properties": {
+        "@id": "node/1328450812",
+        "addr:city": "Jaworzno",
+        "addr:country": "PL",
+        "addr:housenumber": "54",
+        "addr:postcode": "43-600",
+        "addr:street": "Grunwaldzka",
+        "amenity": "bank",
+        "name": "Bank Spółdzielczy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.273695,
+          50.201524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328888854",
+      "properties": {
+        "@id": "node/1328888854",
+        "amenity": "bank",
+        "name": "Getin Bank",
+        "source": "Bing, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2739336,
+          50.2024149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328888856",
+      "properties": {
+        "@id": "node/1328888856",
+        "amenity": "bank",
+        "name": "Raiffeisen Polbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2753098,
+          50.2034602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328899612",
+      "properties": {
+        "@id": "node/1328899612",
+        "amenity": "bank",
+        "name": "Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2727484,
+          50.2018569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328899616",
+      "properties": {
+        "@id": "node/1328899616",
+        "amenity": "bank",
+        "name": "SKOK Stefczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2726715,
+          50.2019377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328899620",
+      "properties": {
+        "@id": "node/1328899620",
+        "amenity": "bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2728628,
+          50.2017432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328914695",
+      "properties": {
+        "@id": "node/1328914695",
+        "addr:housenumber": "55",
+        "addr:street": "Grunwaldzka",
+        "amenity": "bank",
+        "name": "PKO BP",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2719884,
+          50.2026674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329271908",
+      "properties": {
+        "@id": "node/1329271908",
+        "amenity": "bank",
+        "name": "Pekao SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2730382,
+          50.2031389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329331510",
+      "properties": {
+        "@id": "node/1329331510",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "note": "Oddział banku został zlikwidowany. Zostały tylko bankomaty/wpłatomaty."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2723161,
+          50.2024001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329607609",
+      "properties": {
+        "@id": "node/1329607609",
+        "amenity": "bank",
+        "name": "BZ WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8739536,
+          50.2703333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329792703",
+      "properties": {
+        "@id": "node/1329792703",
+        "amenity": "bank",
+        "name": "Bank Spółdzielczy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2777101,
+          50.2038255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1331307316",
+      "properties": {
+        "@id": "node/1331307316",
+        "amenity": "bank",
+        "name": "SKOK Jaworzno",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2707865,
+          50.2016103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1452479197",
+      "properties": {
+        "@id": "node/1452479197",
+        "amenity": "bank",
+        "atm": "no",
+        "operator": "PKO Bank Polski",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8656551,
+          50.2751955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470646938",
+      "properties": {
+        "@id": "node/1470646938",
+        "addr:housenumber": "70",
+        "addr:postcode": "40-750",
+        "addr:street": "Zdzisława Hierowskiego",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Alior Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9782655,
+          50.1996211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470656792",
+      "properties": {
+        "@id": "node/1470656792",
+        "addr:housenumber": "70",
+        "addr:postcode": "40-750",
+        "addr:street": "Zdzisława Hierowskiego",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO Bank Polski",
+        "website": "http://www.pkobp.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9783645,
+          50.1997043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1487409965",
+      "properties": {
+        "@id": "node/1487409965",
+        "addr:housenumber": "219",
+        "addr:street": "1 Maja",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Pekao SA",
+        "opening_hours": "Mo-Fr 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.861241,
+          50.2647344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1490583353",
+      "properties": {
+        "@id": "node/1490583353",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.062987,
+          50.2245145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1529203792",
+      "properties": {
+        "@id": "node/1529203792",
+        "addr:housenumber": "34",
+        "addr:street": "Sokolska",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0173336,
+          50.2651763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557324307",
+      "properties": {
+        "@id": "node/1557324307",
+        "amenity": "bank",
+        "name": "Bank PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2406372,
+          50.2934841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1561890681",
+      "properties": {
+        "@id": "node/1561890681",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0702752,
+          50.3214206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1604306085",
+      "properties": {
+        "@id": "node/1604306085",
+        "addr:housenumber": "1",
+        "addr:postcode": "41-300",
+        "addr:street": "Jana III Sobieskiego",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Zachodni WBK SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1859112,
+          50.3252722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607601665",
+      "properties": {
+        "@id": "node/1607601665",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "42",
+        "addr:street": "Królowej Jadwigi",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Eurobank",
+        "operator": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2002824,
+          50.323611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607601669",
+      "properties": {
+        "@id": "node/1607601669",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "PKO BP Oddział nr 2",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1968974,
+          50.3221241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1662380196",
+      "properties": {
+        "@id": "node/1662380196",
+        "addr:housename": "15",
+        "addr:street": "Gliwicka",
+        "amenity": "bank",
+        "name": "Bank Zachodni WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9223645,
+          50.3468119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1675112786",
+      "properties": {
+        "@id": "node/1675112786",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Zachodni WBK",
+        "short_name": "BZ WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.023018,
+          50.2616223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1675112811",
+      "properties": {
+        "@id": "node/1675112811",
+        "addr:housenumber": "9",
+        "addr:street": "Aleja Wojciecha Korfantego",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Raiffeisen Polbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0234438,
+          50.2619491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1697470766",
+      "properties": {
+        "@id": "node/1697470766",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Pocztowy",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8679246,
+          50.2712506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1697470848",
+      "properties": {
+        "@id": "node/1697470848",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Śląsk",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8682803,
+          50.2720432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720965370",
+      "properties": {
+        "@id": "node/1720965370",
+        "amenity": "bank",
+        "name": "SKOK Boże Dary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0426167,
+          50.2001445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740232389",
+      "properties": {
+        "@id": "node/1740232389",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BGŻ BNP Paribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9040597,
+          50.1682038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1748609089",
+      "properties": {
+        "@id": "node/1748609089",
+        "addr:housenumber": "6",
+        "addr:postcode": "41-400",
+        "addr:street": "Mikołowska",
+        "alt_name": "bankomat mysłowice",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Peakao SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1363776,
+          50.2398705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1767432263",
+      "properties": {
+        "@id": "node/1767432263",
+        "amenity": "bank",
+        "name": "Crédit Agricole",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8760175,
+          50.2835878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1767519207",
+      "properties": {
+        "@id": "node/1767519207",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BPH",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8759346,
+          50.286209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1767519208",
+      "properties": {
+        "@id": "node/1767519208",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BZ WBK",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8759167,
+          50.2867401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1767519212",
+      "properties": {
+        "@id": "node/1767519212",
+        "amenity": "bank",
+        "name": "SKOK Śląsk",
+        "source": "OSM Tracker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8756805,
+          50.2852261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772848119",
+      "properties": {
+        "@id": "node/1772848119",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "23",
+        "addr:street": "Królowej Jadwigi",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1999563,
+          50.3240667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772864450",
+      "properties": {
+        "@id": "node/1772864450",
+        "amenity": "bank",
+        "name": "Alior Bank",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.876413,
+          50.2845337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772864453",
+      "properties": {
+        "@id": "node/1772864453",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kredyt Bank",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8764526,
+          50.2842688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772864460",
+      "properties": {
+        "@id": "node/1772864460",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP",
+        "operator": "PKO BP",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8764274,
+          50.2843636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772864461",
+      "properties": {
+        "@id": "node/1772864461",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO SA",
+        "operator": "PKO SA",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8763898,
+          50.28461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772864463",
+      "properties": {
+        "@id": "node/1772864463",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Santander Consumer Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8756982,
+          50.2851512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1772955756",
+      "properties": {
+        "@id": "node/1772955756",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "34",
+        "addr:street": "Karola Goduli",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8879958,
+          50.3159566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1774434511",
+      "properties": {
+        "@id": "node/1774434511",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Spółdzielczy",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8882688,
+          50.2666677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1775994468",
+      "properties": {
+        "@id": "node/1775994468",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PolBank",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0255246,
+          50.2576633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1779478131",
+      "properties": {
+        "@id": "node/1779478131",
+        "amenity": "bank",
+        "name": "Skok Arka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.222138,
+          50.3279756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1780157493",
+      "properties": {
+        "@id": "node/1780157493",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9039396,
+          50.2534378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1781695894",
+      "properties": {
+        "@id": "node/1781695894",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "45",
+        "addr:street": "Wojska Polskiego",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Agencja PKO BP",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2045875,
+          50.3213383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1784763254",
+      "properties": {
+        "@id": "node/1784763254",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8758868,
+          50.2895472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1791950980",
+      "properties": {
+        "@id": "node/1791950980",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "23",
+        "addr:postcode": "41-709",
+        "addr:street": "Piotra Niedurnego",
+        "amenity": "bank",
+        "name": "SKOK Wesoła",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.875937,
+          50.2817606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1810340379",
+      "properties": {
+        "@id": "node/1810340379",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Śląsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8821038,
+          50.3144082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1817058974",
+      "properties": {
+        "@id": "node/1817058974",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP Oddział 3",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "PKO BP",
+        "source": "Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0207194,
+          50.2643538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1818769457",
+      "properties": {
+        "@id": "node/1818769457",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP",
+        "operator": "PKO BP",
+        "source": "OSM Tracker, knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9240578,
+          50.2879464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1819707032",
+      "properties": {
+        "@id": "node/1819707032",
+        "amenity": "bank",
+        "atm": "yes",
+        "internet_access": "yes",
+        "name": "ING Bank Śląski",
+        "operator": "ING Bank Śląski",
+        "source": "OSM Tracker, knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9160065,
+          50.2927128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1836981164",
+      "properties": {
+        "@id": "node/1836981164",
+        "amenity": "bank",
+        "atm": "yes",
+        "drive_through": "no",
+        "name": "PKO",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9362699,
+          50.2640562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1854772827",
+      "properties": {
+        "@id": "node/1854772827",
+        "addr:city": "Siemianowice Śląskie",
+        "addr:country": "PL",
+        "addr:housenumber": "25",
+        "addr:postcode": "41-106",
+        "addr:street": "Niepodległości",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0065604,
+          50.3045838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1866856502",
+      "properties": {
+        "@id": "node/1866856502",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Alior Bank",
+        "operator": "Alior Bank",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9753748,
+          50.2258639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1866856504",
+      "properties": {
+        "@id": "node/1866856504",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Euro Bank",
+        "operator": "Euto Bank",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9752745,
+          50.2258676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1866856507",
+      "properties": {
+        "@id": "node/1866856507",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9764596,
+          50.2258213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1866856509",
+      "properties": {
+        "@id": "node/1866856509",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Stefczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9675114,
+          50.2254545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1878751136",
+      "properties": {
+        "@id": "node/1878751136",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "opening_hours": "Mo-Fr 9:00-17:00",
+        "operator": "ING",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9832824,
+          50.2316652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1888214106",
+      "properties": {
+        "@id": "node/1888214106",
+        "addr:housenumber": "3",
+        "addr:street": "Adama Mickiewicza",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0209613,
+          50.2604661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1888632126",
+      "properties": {
+        "@id": "node/1888632126",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "name": "PKO BP Oddział 14",
+        "opening_hours": "Mo-Tu 08:00-15:00; We-Fr 10:00-17:00; PH off",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0731666,
+          50.2724381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1892928120",
+      "properties": {
+        "@id": "node/1892928120",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "name": "PKO BP Oddział 5",
+        "opening_hours": "Mo-Tu 08:00-15:00; We-Fr 11:00-18:00; PH off",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9763815,
+          50.2781496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1896435423",
+      "properties": {
+        "@id": "node/1896435423",
+        "addr:city": "Katowice",
+        "addr:housenumber": "30",
+        "addr:postcode": "40-878",
+        "addr:street": "Trasa Nikodema i Józefa Renców",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "name": "PKO BP",
+        "opening_hours": "Mo 11:00-18:00;Tu-Fr 09:00-18:00;Sa 09:00-16:00",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9670589,
+          50.2740859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1905015690",
+      "properties": {
+        "@id": "node/1905015690",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9778118,
+          50.2356178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1915195158",
+      "properties": {
+        "@id": "node/1915195158",
+        "addr:city": "Katowice",
+        "addr:housenumber": "1",
+        "addr:postcode": "40-007",
+        "addr:street": "Bankowa",
+        "amenity": "bank",
+        "email": "sekretariat.katowice@nbp.pl",
+        "fax": "+48 22 183 21 60",
+        "name": "Narodowy Bank Polski Oddział Okręgowy w Katowicach",
+        "phone": "+48 22 183 21 00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0284375,
+          50.2586226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1927345145",
+      "properties": {
+        "@id": "node/1927345145",
+        "addr:city": "Katowice",
+        "addr:country": "PL",
+        "addr:housenumber": "44",
+        "addr:postcode": "40-024",
+        "addr:street": "Powstańców",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Oddział Korporacyjny i BRE Private Banking & Wealth Managment Katowice",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "BRE Bank",
+        "website": "http://www.brebank.pl/Kontakt/Znajdz_oddzial/?posId=99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0305906,
+          50.2510241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1927345152",
+      "properties": {
+        "@id": "node/1927345152",
+        "addr:city": "Katowice",
+        "addr:housenumber": "23",
+        "addr:postcode": "40-022",
+        "addr:street": "Konstantego Damrota",
+        "amenity": "bank",
+        "atm": "yes",
+        "fax": "+48 32 358 50 89",
+        "name": "PKO BP Oddział 1 w Katowicach",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "PKO BP",
+        "phone": "+48 32 358 50 00",
+        "website": "http://www.pkobp.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0293134,
+          50.2513606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1927592645",
+      "properties": {
+        "@id": "node/1927592645",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0736444,
+          50.3187367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1928601520",
+      "properties": {
+        "@id": "node/1928601520",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9730348,
+          50.2804671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1930253348",
+      "properties": {
+        "@id": "node/1930253348",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Śląsk",
+        "source": "OSM Tracker, Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9011227,
+          50.2539556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1978618878",
+      "properties": {
+        "@id": "node/1978618878",
+        "amenity": "bank",
+        "name": "Raiffeisen Polbank",
+        "operator": "Raiffeisen Polbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9240578,
+          50.3465693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2006216646",
+      "properties": {
+        "@id": "node/2006216646",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "mBank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.021137,
+          50.2562308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2010555105",
+      "properties": {
+        "@id": "node/2010555105",
+        "amenity": "bank",
+        "name": "PKO BP Oddział 8 w Katowicach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0209986,
+          50.2587133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2024563781",
+      "properties": {
+        "@id": "node/2024563781",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Zachodni WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9550537,
+          50.2981132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2028008704",
+      "properties": {
+        "@id": "node/2028008704",
+        "addr:city": "Katowice",
+        "addr:housenumber": "3",
+        "addr:postcode": "40-009",
+        "addr:street": "Warszawska",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Alior Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.023526,
+          50.2590615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2028008712",
+      "properties": {
+        "@id": "node/2028008712",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP Oddział 2 w Katowicach",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0245444,
+          50.2588858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2028495949",
+      "properties": {
+        "@id": "node/2028495949",
+        "amenity": "bank",
+        "name": "Getin Bank",
+        "opening_hours": "Mo-Fr 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0237591,
+          50.2593494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2028495963",
+      "properties": {
+        "@id": "node/2028495963",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Pekao SA II Oddział w Katowicach",
+        "opening_hours": "Mo-Fr 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0245414,
+          50.2592077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2044764170",
+      "properties": {
+        "@id": "node/2044764170",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Getin Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1358789,
+          50.280746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2049724588",
+      "properties": {
+        "@id": "node/2049724588",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Getin Noble Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1362749,
+          50.3234453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2054316775",
+      "properties": {
+        "@id": "node/2054316775",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.913156,
+          50.3110767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2093381572",
+      "properties": {
+        "@id": "node/2093381572",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit Agricole",
+        "source": "OSM Tracker, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8759111,
+          50.2843221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2093381579",
+      "properties": {
+        "@id": "node/2093381579",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank",
+        "source": "OSM Tracker, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8759399,
+          50.2842012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2093381586",
+      "properties": {
+        "@id": "node/2093381586",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "GetinBank",
+        "source": "OSM Tracker, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8759976,
+          50.2839334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2093381626",
+      "properties": {
+        "@id": "node/2093381626",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Stefczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8759875,
+          50.2840126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2093396371",
+      "properties": {
+        "@id": "node/2093396371",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Kopernik",
+        "source": "OSM Tracker, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8758962,
+          50.2835779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2093413409",
+      "properties": {
+        "@id": "node/2093413409",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "EuroBank",
+        "source": "OSM Tracker, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8760323,
+          50.2830405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2093413413",
+      "properties": {
+        "@id": "node/2093413413",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Polbank",
+        "source": "OSM Tracker, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8760295,
+          50.2831455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2120116957",
+      "properties": {
+        "@id": "node/2120116957",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "Getin Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0526748,
+          50.2596909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2120154673",
+      "properties": {
+        "@id": "node/2120154673",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.026177,
+          50.2701579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2156798024",
+      "properties": {
+        "@id": "node/2156798024",
+        "amenity": "bank",
+        "name": "Meritum Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9181459,
+          50.3486364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2188926827",
+      "properties": {
+        "@id": "node/2188926827",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Pekao",
+        "opening_hours": "Mo-Fr 09:30-17:00",
+        "phone": "801365365",
+        "website": "pekao.com.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9231569,
+          50.3478862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2192883179",
+      "properties": {
+        "@id": "node/2192883179",
+        "amenity": "bank",
+        "name": "Kasa SKOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8981744,
+          50.3372632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2202293862",
+      "properties": {
+        "@id": "node/2202293862",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Pekao SA I Oddział",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "operator": "Pekao SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0224736,
+          50.2652487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2273590007",
+      "properties": {
+        "@id": "node/2273590007",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9172554,
+          50.345388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2279706508",
+      "properties": {
+        "@id": "node/2279706508",
+        "amenity": "bank",
+        "name": "BNP Paribas",
+        "source": "Bing, Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2725977,
+          50.2020098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2285003860",
+      "properties": {
+        "@id": "node/2285003860",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1347098,
+          50.3235849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2288351894",
+      "properties": {
+        "@id": "node/2288351894",
+        "amenity": "bank",
+        "name": "Bank BPH",
+        "source": "Knowledge, Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2767743,
+          50.2030882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2294375982",
+      "properties": {
+        "@id": "node/2294375982",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9638707,
+          50.2256921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2294701940",
+      "properties": {
+        "@id": "node/2294701940",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0174652,
+          50.2547293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2331530031",
+      "properties": {
+        "@id": "node/2331530031",
+        "amenity": "bank",
+        "name": "mBank.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1247049,
+          50.2767862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2382439485",
+      "properties": {
+        "@id": "node/2382439485",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9525473,
+          50.2989116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2382611522",
+      "properties": {
+        "@id": "node/2382611522",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Invest Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.925172,
+          50.3469327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2383155277",
+      "properties": {
+        "@id": "node/2383155277",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9247643,
+          50.3483679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2388372011",
+      "properties": {
+        "@id": "node/2388372011",
+        "addr:housenumber": "2",
+        "addr:postcode": "40-219",
+        "addr:street": "Wiślana",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "name": "PKO BP Oddział 15",
+        "opening_hours": "Mo-Tu 08:00-15:00; We-Fr 11:00-18:00; PH off",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0473423,
+          50.2669015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2419309201",
+      "properties": {
+        "@id": "node/2419309201",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kasa Stefczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1837222,
+          50.3255475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2420091567",
+      "properties": {
+        "@id": "node/2420091567",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Getinbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1837617,
+          50.3242153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2420091568",
+      "properties": {
+        "@id": "node/2420091568",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank",
+        "operator": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1837428,
+          50.3251162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2420091570",
+      "properties": {
+        "@id": "node/2420091570",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Skok Kopernik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1837671,
+          50.3243488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2420091571",
+      "properties": {
+        "@id": "node/2420091571",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Skok Wesoła"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1834696,
+          50.3241591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2456849374",
+      "properties": {
+        "@id": "node/2456849374",
+        "addr:housenumber": "33",
+        "addr:street": "Warszawska",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0291546,
+          50.2580364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2487915597",
+      "properties": {
+        "@id": "node/2487915597",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "9",
+        "addr:postcode": "41-300",
+        "addr:street": "3 Maja",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Zachodni WBK S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1837794,
+          50.3239209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488217809",
+      "properties": {
+        "@id": "node/2488217809",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "3",
+        "addr:postcode": "41-300",
+        "addr:street": "3 Maja",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "mBank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1839548,
+          50.3247871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488221711",
+      "properties": {
+        "@id": "node/2488221711",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "3",
+        "addr:postcode": "41-300",
+        "addr:street": "3 Maja",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1840692,
+          50.3247878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488225717",
+      "properties": {
+        "@id": "node/2488225717",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "3",
+        "addr:postcode": "41-300",
+        "addr:street": "3 Maja",
+        "amenity": "bank",
+        "name": "BNP Paribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1840377,
+          50.3244643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488685357",
+      "properties": {
+        "@id": "node/2488685357",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "21",
+        "addr:postcode": "41-300",
+        "addr:street": "Aleja Tadeusza Kościuszki",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Alior Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1870152,
+          50.3239824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489449753",
+      "properties": {
+        "@id": "node/2489449753",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank BPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1854813,
+          50.3253505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489451080",
+      "properties": {
+        "@id": "node/2489451080",
+        "amenity": "bank",
+        "name": "Santander Consumer Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1841268,
+          50.3255577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2493581079",
+      "properties": {
+        "@id": "node/2493581079",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Zachodni WBK S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1848883,
+          50.3233231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2508479623",
+      "properties": {
+        "@id": "node/2508479623",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Spółdzielczy w Tychach Centrala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9799384,
+          50.1303106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2559598264",
+      "properties": {
+        "@id": "node/2559598264",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO SA",
+        "name": "Bank PKO SA",
+        "operator": "PKO SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1866366,
+          50.3264584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2605072322",
+      "properties": {
+        "@id": "node/2605072322",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BZ WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9183455,
+          50.3465791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2605072398",
+      "properties": {
+        "@id": "node/2605072398",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Raiffeisen Polbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9185127,
+          50.3467498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2682496989",
+      "properties": {
+        "@id": "node/2682496989",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kasa Stefczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0172835,
+          50.259532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2714478388",
+      "properties": {
+        "@id": "node/2714478388",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "name": "PKO BP Oddział 12",
+        "opening_hours": "Mo-Tu 08:00-15:00; We-Fr 10:00-17:00; PH off",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0182041,
+          50.2541823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2714484966",
+      "properties": {
+        "@id": "node/2714484966",
+        "addr:city": "Katowice",
+        "addr:postcode": "40-007",
+        "addr:street": "Uniwersytecka",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "contact:fax": "+48 32 3585930",
+        "contact:phone": "+48 32 3585919",
+        "contact:website": "http://www.pkobp.pl",
+        "name": "PKO BP Oddział 7",
+        "opening_hours": "Mo-Fr 08:00-18:00; PH off",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0244175,
+          50.2615519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2714494536",
+      "properties": {
+        "@id": "node/2714494536",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "name": "PKO BP Oddział 9",
+        "opening_hours": "Mo-Tu 08:00-15:00; We-Fr 11:00-18:00; PH off",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0235687,
+          50.2672426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2714519594",
+      "properties": {
+        "@id": "node/2714519594",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "PKO BP",
+        "name": "PKO BP Oddział 6",
+        "opening_hours": "Mo 12:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0388556,
+          50.2435156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2714628074",
+      "properties": {
+        "@id": "node/2714628074",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "name": "PKO BP Oddział 17",
+        "opening_hours": "Mo-Tu 08:00-15:00; We-Fr 10:00-17:00; PH off",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0801037,
+          50.2447798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2721059194",
+      "properties": {
+        "@id": "node/2721059194",
+        "addr:housename": "Skok Jaworzno",
+        "addr:housenumber": "2",
+        "addr:postcode": "43-600",
+        "addr:street": "Szczakowska",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Jaworzno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2484885,
+          50.2230138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2806952302",
+      "properties": {
+        "@id": "node/2806952302",
+        "amenity": "bank",
+        "name": "GETIN Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8916895,
+          50.3380219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2868723760",
+      "properties": {
+        "@id": "node/2868723760",
+        "addr:city": "Katowice",
+        "addr:housenumber": "62",
+        "addr:street": "Panewnicka",
+        "amenity": "bank",
+        "bic": "AGRIPLPR",
+        "name": "Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9645443,
+          50.2254997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2879720543",
+      "properties": {
+        "@id": "node/2879720543",
+        "amenity": "bank",
+        "name": "Bank Ochrony Środowiska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.015411,
+          50.2523608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2959699688",
+      "properties": {
+        "@id": "node/2959699688",
+        "amenity": "bank",
+        "name": "Bank BPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1834725,
+          50.3244809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3073671120",
+      "properties": {
+        "@id": "node/3073671120",
+        "addr:city": "Lędziny",
+        "addr:housenumber": "18b",
+        "addr:postcode": "43-143",
+        "addr:street": "Hołdunowska",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski Oddział w Lędzinach",
+        "source:addr": "EMUiA (emuia.gugik.gov.pl)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1308466,
+          50.1422398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3087764502",
+      "properties": {
+        "@id": "node/3087764502",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1793995,
+          50.2863026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100636737",
+      "properties": {
+        "@id": "node/3100636737",
+        "amenity": "bank",
+        "brand": "BNP Paribas",
+        "name": "BNP Paribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9169007,
+          50.3449898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100636738",
+      "properties": {
+        "@id": "node/3100636738",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank BPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9161797,
+          50.3436231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100636739",
+      "properties": {
+        "@id": "node/3100636739",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Pekao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9163446,
+          50.3438018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100636755",
+      "properties": {
+        "@id": "node/3100636755",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Stefczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9163288,
+          50.344355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100636756",
+      "properties": {
+        "@id": "node/3100636756",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Śląsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9164267,
+          50.3438908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100891713",
+      "properties": {
+        "@id": "node/3100891713",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BGŻ BNP Paribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9186209,
+          50.3466381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100891717",
+      "properties": {
+        "@id": "node/3100891717",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Credit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9168128,
+          50.3446431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100891718",
+      "properties": {
+        "@id": "node/3100891718",
+        "amenity": "bank",
+        "name": "Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9213359,
+          50.3470283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100891725",
+      "properties": {
+        "@id": "node/3100891725",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.918715,
+          50.3467443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100893437",
+      "properties": {
+        "@id": "node/3100893437",
+        "amenity": "bank",
+        "name": "Kasa Centrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9211698,
+          50.3470495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100893438",
+      "properties": {
+        "@id": "node/3100893438",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kasa Stefczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9175883,
+          50.345522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100893439",
+      "properties": {
+        "@id": "node/3100893439",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kasa Stefczyka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9234326,
+          50.3466547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100893448",
+      "properties": {
+        "@id": "node/3100893448",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "SKOK Kopernik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.918242,
+          50.3462323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100893449",
+      "properties": {
+        "@id": "node/3100893449",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9177313,
+          50.3456869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3100893460",
+      "properties": {
+        "@id": "node/3100893460",
+        "amenity": "bank",
+        "name": "sk bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9237986,
+          50.3466048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3123488584",
+      "properties": {
+        "@id": "node/3123488584",
+        "addr:city": "Katowice",
+        "addr:housenumber": "10",
+        "addr:street": "Warszawska",
+        "amenity": "bank",
+        "name": "Crédit Agricole",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0248767,
+          50.2591754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3123488585",
+      "properties": {
+        "@id": "node/3123488585",
+        "addr:city": "Katowice",
+        "addr:housenumber": "12",
+        "addr:street": "Warszawska",
+        "amenity": "bank",
+        "name": "Idea Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0252652,
+          50.2591605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3123488586",
+      "properties": {
+        "@id": "node/3123488586",
+        "addr:city": "Katowice",
+        "addr:housenumber": "11",
+        "addr:postcode": "40-012",
+        "addr:street": "Świętego Jana",
+        "amenity": "bank",
+        "name": "Raiffeisen Polbank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0213744,
+          50.2580042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3123488587",
+      "properties": {
+        "@id": "node/3123488587",
+        "addr:city": "Katowice",
+        "addr:housenumber": "3",
+        "addr:postcode": "40-009",
+        "addr:street": "Warszawska",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Raiffeisen Polbank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0234432,
+          50.2590801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3194335795",
+      "properties": {
+        "@id": "node/3194335795",
+        "addr:city": "Katowice",
+        "addr:housenumber": "17a",
+        "addr:postcode": "40-003",
+        "addr:street": "Teatralna",
+        "amenity": "bank",
+        "contact:website": "http://www.bgz.pl",
+        "name": "Bank BGŻ",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0255781,
+          50.2600534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3195779944",
+      "properties": {
+        "@id": "node/3195779944",
+        "addr:city": "Katowice",
+        "addr:housenumber": "7",
+        "addr:postcode": "40-098",
+        "addr:street": "Plac Wilhelma Szewczyka",
+        "amenity": "bank",
+        "contact:website": "http://www.aliorbank.pl",
+        "name": "Alior Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa,Su off; PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0184018,
+          50.2588973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199607322",
+      "properties": {
+        "@id": "node/3199607322",
+        "addr:city": "Katowice",
+        "addr:housenumber": "52",
+        "addr:postcode": "40-760",
+        "addr:street": "Panewnicka",
+        "amenity": "bank",
+        "atm": "yes",
+        "contact:fax": "+48 32 2524598",
+        "contact:phone": "+48 32 2524298",
+        "contact:website": "http://www.pekao.com.pl",
+        "name": "Pekao SA",
+        "opening_hours": "Mo-Th 09:30-17:00; Fr 10:30-18:00; Sa,Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9658751,
+          50.2251565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3239618492",
+      "properties": {
+        "@id": "node/3239618492",
+        "addr:city": "Katowice",
+        "addr:housenumber": "3",
+        "addr:postcode": "40-098",
+        "addr:street": "Plac Wilhelma Szewczyka",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "PKO BP",
+        "contact:phone": "+48 32 6012492",
+        "contact:website": "http://www.pkobp.pl",
+        "name": "PKO BP",
+        "opening_hours": "Mo-Fr 10:00-18:00; PH off",
+        "operator": "PKO BP Oddział 22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0184034,
+          50.2592118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3316467754",
+      "properties": {
+        "@id": "node/3316467754",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank O.K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8824259,
+          50.2666442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3348270137",
+      "properties": {
+        "@id": "node/3348270137",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "16",
+        "addr:street": "Odrowążów",
+        "amenity": "bank",
+        "name": "SKOK Szopienice",
+        "survey:date": "2015-02-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9354057,
+          50.2723443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3355801155",
+      "properties": {
+        "@id": "node/3355801155",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BZ WBK",
+        "name": "BZ WBK Oddział 1",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "operator": "BZ WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.019146,
+          50.254203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3381606261",
+      "properties": {
+        "@id": "node/3381606261",
+        "addr:city": "Jaworzno",
+        "addr:housenumber": "45",
+        "addr:postcode": "43-608",
+        "addr:street": "Wygoda",
+        "amenity": "bank",
+        "name": "PKO BP Oddział Nr 69",
+        "opening_hours": "Mo-Fr 08:00-16:00,Sa 08:00-12:00",
+        "operator": "PKO BP SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2506281,
+          50.1582556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3393649992",
+      "properties": {
+        "@id": "node/3393649992",
+        "amenity": "bank",
+        "name": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1321275,
+          50.29063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3510081034",
+      "properties": {
+        "@id": "node/3510081034",
+        "amenity": "bank",
+        "name": "Bank Zachodni WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1339958,
+          50.3187636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3605802502",
+      "properties": {
+        "@id": "node/3605802502",
+        "addr:city": "Mysłowice",
+        "addr:housenumber": "12",
+        "addr:postcode": "41-400",
+        "addr:street": "Olbrychta Strumieńskiego",
+        "amenity": "bank",
+        "name": "BNP Paribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1413741,
+          50.2430193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3605802504",
+      "properties": {
+        "@id": "node/3605802504",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.137936,
+          50.2423528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3605802506",
+      "properties": {
+        "@id": "node/3605802506",
+        "addr:city": "Mysłowice",
+        "addr:housenumber": "7",
+        "addr:postcode": "41-400",
+        "addr:street": "Olbrychta Strumieńskiego",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1410572,
+          50.2429589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3608794073",
+      "properties": {
+        "@id": "node/3608794073",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1053014,
+          50.3186012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3641274963",
+      "properties": {
+        "@id": "node/3641274963",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bank Zachodni WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0240479,
+          50.2584227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3641274971",
+      "properties": {
+        "@id": "node/3641274971",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Lion's Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0226146,
+          50.2584837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3641274974",
+      "properties": {
+        "@id": "node/3641274974",
+        "amenity": "bank",
+        "name": "Neo Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0241345,
+          50.2583164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3641274975",
+      "properties": {
+        "@id": "node/3641274975",
+        "amenity": "bank",
+        "name": "Noble Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0240943,
+          50.2583203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3707619924",
+      "properties": {
+        "@id": "node/3707619924",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "72",
+        "addr:postcode": "41-506",
+        "addr:street": "Graniczna",
+        "amenity": "bank",
+        "atm": "no",
+        "drive_through": "no",
+        "name": "PKO BP Oddział nr 46",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9274456,
+          50.2735142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3774209697",
+      "properties": {
+        "@id": "node/3774209697",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BZ WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9052061,
+          50.1700615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3774231558",
+      "properties": {
+        "@id": "node/3774231558",
+        "addr:city": "Mikołów",
+        "addr:postcode": "43-190",
+        "addr:street": "Pszczyńska",
+        "amenity": "bank",
+        "atm": "yes",
+        "drive_through": "no",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.905657,
+          50.1672946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3774247757",
+      "properties": {
+        "@id": "node/3774247757",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Getin Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9062154,
+          50.1673424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3785968527",
+      "properties": {
+        "@id": "node/3785968527",
+        "amenity": "bank",
+        "name": "Millennium Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1321974,
+          50.2904996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3833983352",
+      "properties": {
+        "@id": "node/3833983352",
+        "amenity": "bank",
+        "atm": "yes",
+        "contact:website": "http://www.credit-agricole.pl/klienci-indywidualni",
+        "name": "Crédit Agricole",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.916007,
+          50.2918367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519631",
+      "properties": {
+        "@id": "node/3920519631",
+        "amenity": "bank",
+        "name": "Alior Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9521865,
+          50.2986327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519643",
+      "properties": {
+        "@id": "node/3920519643",
+        "amenity": "bank",
+        "name": "BGŻ BNP Paribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9514598,
+          50.297293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519647",
+      "properties": {
+        "@id": "node/3920519647",
+        "amenity": "bank",
+        "name": "Bank BPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9508304,
+          50.2965059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519648",
+      "properties": {
+        "@id": "node/3920519648",
+        "amenity": "bank",
+        "name": "Bank Pekao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0170691,
+          50.2595413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519649",
+      "properties": {
+        "@id": "node/3920519649",
+        "amenity": "bank",
+        "name": "Bank Pekao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9493775,
+          50.2947032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519651",
+      "properties": {
+        "@id": "node/3920519651",
+        "amenity": "bank",
+        "name": "Bank Zachodni WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9504738,
+          50.2964953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519790",
+      "properties": {
+        "@id": "node/3920519790",
+        "amenity": "bank",
+        "level": "0",
+        "name": "City Handlowy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0175907,
+          50.2595011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519810",
+      "properties": {
+        "@id": "node/3920519810",
+        "amenity": "bank",
+        "name": "Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9495605,
+          50.2953608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519811",
+      "properties": {
+        "@id": "node/3920519811",
+        "amenity": "bank",
+        "name": "Crédit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.951945,
+          50.2983404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519828",
+      "properties": {
+        "@id": "node/3920519828",
+        "amenity": "bank",
+        "name": "Deutsche Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0171299,
+          50.2597455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519854",
+      "properties": {
+        "@id": "node/3920519854",
+        "amenity": "bank",
+        "name": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0170402,
+          50.2597493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920519855",
+      "properties": {
+        "@id": "node/3920519855",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9541152,
+          50.2973132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920520005",
+      "properties": {
+        "@id": "node/3920520005",
+        "amenity": "bank",
+        "name": "Millennium Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9513489,
+          50.2976379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920520029",
+      "properties": {
+        "@id": "node/3920520029",
+        "amenity": "bank",
+        "name": "OK Bank Spółdzielczy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.951056,
+          50.2972594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920520047",
+      "properties": {
+        "@id": "node/3920520047",
+        "amenity": "bank",
+        "name": "PBS Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0119214,
+          50.2620007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920520391",
+      "properties": {
+        "@id": "node/3920520391",
+        "amenity": "bank",
+        "name": "Raiffeisen Polbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9504443,
+          50.2964595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920520422",
+      "properties": {
+        "@id": "node/3920520422",
+        "amenity": "bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9512953,
+          50.2975686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920520448",
+      "properties": {
+        "@id": "node/3920520448",
+        "amenity": "bank",
+        "name": "Stefczyk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9505401,
+          50.296594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3939821258",
+      "properties": {
+        "@id": "node/3939821258",
+        "amenity": "bank",
+        "name": "SKOK Piast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9047049,
+          50.1686877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4076263680",
+      "properties": {
+        "@id": "node/4076263680",
+        "addr:city": "Sosnowiec",
+        "addr:housenumber": "27",
+        "addr:postcode": "41-200",
+        "addr:street": "3 Maja",
+        "amenity": "bank",
+        "name": "boś bank",
+        "opening_hours": "Mo, Tu 09:30-17:00; We-Fr 10:30-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1309811,
+          50.2798509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4110399896",
+      "properties": {
+        "@id": "node/4110399896",
+        "addr:street": "Powstańców",
+        "amenity": "bank",
+        "name": "Mbank ",
+        "website": "www.mbank.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.030389,
+          50.2509627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4169533292",
+      "properties": {
+        "@id": "node/4169533292",
+        "amenity": "bank",
+        "internet_access": "yes",
+        "name": "Ing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0325196,
+          50.3022511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4266597091",
+      "properties": {
+        "@id": "node/4266597091",
+        "amenity": "bank",
+        "name": "Bank Spółdzielczy w Jastrzębiu Zdroju"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0616542,
+          50.2592952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4279435552",
+      "properties": {
+        "@id": "node/4279435552",
+        "addr:city": "Bytom",
+        "addr:housenumber": "22",
+        "addr:postcode": "41-902",
+        "addr:street": "Stanisława Moniuszki",
+        "amenity": "bank",
+        "phone": "328101035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9193727,
+          50.3442331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4279680594",
+      "properties": {
+        "@id": "node/4279680594",
+        "addr:city": "Bytom",
+        "addr:housenumber": "7",
+        "addr:postcode": "41-902",
+        "addr:street": "Podgórna",
+        "amenity": "bank",
+        "opening_hours": "Mo-Fr 9:00-17:00",
+        "phone": "32 431 02 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9243456,
+          50.3475042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4283957291",
+      "properties": {
+        "@id": "node/4283957291",
+        "addr:city": "Katowice",
+        "addr:housenumber": "56",
+        "addr:street": "Aleja Wojciecha Korfantego",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bank Pekao S.A.",
+        "name": "Bank Pekao",
+        "opening_hours": "Mo-Fr 08:00-18:00; PH off",
+        "operator": "UniCredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0239043,
+          50.2687267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4299100535",
+      "properties": {
+        "@id": "node/4299100535",
+        "amenity": "bank",
+        "brand": "Getin Bank",
+        "name": "Getin Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0246311,
+          50.2678546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4354513747",
+      "properties": {
+        "@id": "node/4354513747",
+        "addr:city": "Siemianowice Śląskie",
+        "addr:housenumber": "26-28",
+        "addr:street": "Walerego Wróblewskiego",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PKO Bank Polski Oddział 3. w Siemianowicach Śląskich",
+        "opening_hours": "Mo-Tu 08:00-15:00; We-Fr 11:00-18:00; PH off",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0029185,
+          50.2991808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4365545690",
+      "properties": {
+        "@id": "node/4365545690",
+        "amenity": "bank",
+        "name": "ING Bank Śląski",
+        "name:pl": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9366815,
+          50.267619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4372022869",
+      "properties": {
+        "@id": "node/4372022869",
+        "addr:city": "Katowice",
+        "addr:housenumber": "35a",
+        "addr:street": "Józefowska",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Alior Bank Partner",
+        "opening_hours": "Mo-Fr 09:00-15:00; Sa,Su,PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0162981,
+          50.2783598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4380629552",
+      "properties": {
+        "@id": "node/4380629552",
+        "amenity": "bank",
+        "name": "Agencja PKO BP nr 1074 oddział nr 1 w Chorzowie",
+        "opening_hours": "Mo-Fr 08:30-16:30; Sa,Su,PH off",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9357389,
+          50.2971212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4387286186",
+      "properties": {
+        "@id": "node/4387286186",
+        "addr:city": "Katowice",
+        "addr:housenumber": "7",
+        "addr:street": "Dębowa",
+        "amenity": "bank",
+        "name": "SKOK Piast",
+        "opening_hours": "Mo-Fr 09:15-17:00; Sa,Su,PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9974746,
+          50.2721783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4396313233",
+      "properties": {
+        "@id": "node/4396313233",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Credit Agricole",
+        "name": "Credit Agricole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0185148,
+          50.266071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4595765191",
+      "properties": {
+        "@id": "node/4595765191",
+        "amenity": "bank",
+        "name": "PKO BP",
+        "name:en": "PKO BP",
+        "name:pl": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.103782,
+          50.1911497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4598769689",
+      "properties": {
+        "@id": "node/4598769689",
+        "amenity": "bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0199672,
+          50.259408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4674294789",
+      "properties": {
+        "@id": "node/4674294789",
+        "addr:city": "Jaworzno",
+        "addr:housenumber": "2",
+        "addr:postcode": "43-600",
+        "addr:street": "Rynek Główny",
+        "amenity": "bank",
+        "name": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2754211,
+          50.2031176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4674294811",
+      "properties": {
+        "@id": "node/4674294811",
+        "addr:housenumber": "2A",
+        "addr:street": "Jana Matejki",
+        "amenity": "bank",
+        "name": "BPH - Placówka Partnerska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2731932,
+          50.2012336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4694108389",
+      "properties": {
+        "@id": "node/4694108389",
+        "amenity": "bank",
+        "name": "Raiffeisen bank",
+        "name:pl": "Raiffeisen bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.035796,
+          50.2457126
+        ]
+      }
+    }
+  ]
+}

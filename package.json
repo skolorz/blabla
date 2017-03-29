@@ -1,0 +1,25 @@
+{
+  "name": "hack-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "jasmine": "^2.5.3"
+  },
+  "dependencies": {
+    "Faker": "^0.7.2",
+    "csv-write-stream": "^2.0.0",
+    "csvtojson": "^1.1.4",
+    "iban": "0.0.8",
+    "json-csv": "^1.4.0",
+    "jsonfile": "^2.4.0",
+    "moment": "^2.18.1",
+    "numeral": "^2.0.6"
+  }
+}

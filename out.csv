@@ -1,0 +1,34 @@
+mbranchid	mbankid	mline1	mline2	mline3	mcity	mcounty	mstate	mcountrycode	mpostcode	mlocationlatitude	mlocationlongitude	mlicenseid	mlicensename	mlobbyhours	mdriveuphours	mname	id
+1	ING	Aleja Tadeusza Kościuszki	7a		Dąbrowa Górnicza			PL		50.3266348	19.1869892	node/799212242				ING Bank	1
+2	ING	Górników Redenu	2		Dąbrowa Górnicza			PL		50.3254613	19.1893893	node/799214339				ING Bank	2
+3	ING	3 Maja	15		Dąbrowa Górnicza			PL		50.323093	19.184033	node/1511638109				ING Bank	3
+4	ING	Złota	1		Katowice			PL		50.272138	18.9925686	node/1518019344				ING Bank	4
+5	ING	Śląska	75		Katowice			PL		50.2172999	18.9580446	node/1662120180				ING Bank	5
+6	ING	Krakowska	16		Mikołów			PL		50.1673913	18.9067053	node/1740232218				ING Bank	6
+7	ING	Rynek	8		Mikołów			PL		50.1685694	18.9046967	node/1740232484				ING Bank	7
+8	ING	Sikorek	4		Ruda Śląska			PL		50.2717287	18.8849898	node/1773377023				ING Bank	8
+9	ING	Szyb Andrzeja	18		Ruda Śląska			PL		50.2722018	18.8817108	node/1773382606				ING Bank	9
+10	ING	Gwarecka	25B		Ruda Śląska			PL		50.2672541	18.8868847	node/1774434516				ING Bank	10
+11	ING	Mariacka	5		Katowice			PL		50.2573977	19.0254299	node/1775031271				ING Bank	11
+12	ING	Mariacka	13		Katowice			PL		50.2573348	19.0263588	node/1775981899				ING Bank	12
+13	ING	Mariacka	3		Katowice			PL		50.2574107	19.025189	node/1775981900				ING Bank	13
+14	ING	Mariacka	16		Katowice			PL		50.2575505	19.0268662	node/1775994471				ING Bank	14
+15	ING	Stanisława Skibińskiego	3		Dąbrowa Górnicza			PL		50.3260349	19.1911425	node/1777822619				ING Bank	15
+16	ING	Gliwicka	10		Katowice			PL		50.260838	19.0104759	node/1886727296				ING Bank	16
+17	ING	Stefana Batorego	30		Chorzów			PL		50.2720497	18.9384602	node/1940474043				ING Bank	17
+18	ING	Towarowa	50		Jaworzno			PL		50.2116114	19.2523342	node/2185895615				ING Bank	18
+19	ING	Emila Szramka	5a		Ruda Śląska			PL		50.2653641	18.8986205	node/2187499198				ING Bank	19
+20	ING	Zabrzańska	113		Bytom			PL		50.3375418	18.8861824	node/2189422414				ING Bank	20
+21	ING	Mariacka	18a		Katowice			PL		50.2575059	19.0271935	node/2326211027				ING Bank	21
+22	ING	Stanisława Małachowskiego	22		Sosnowiec			PL		50.2768852	19.1314879	node/2331525071				ING Bank	22
+23	ING	1 Maja	33		Katowice			PL		50.2585556	19.0430099	node/2463786646				ING Bank	23
+24	ING	3 Maja	38		Katowice			PL		50.2593864	19.0164412	node/2682496985				ING Bank	24
+25	ING	Aleja Muzyków	1		Chorzów			PL		50.2929362	18.9883284	node/2781481289				ING Bank	25
+26	ING	Naftowa			Sosnowiec			PL		50.2687862	19.1230792	node/2955070919				ING Bank	26
+27	ING	Waleriana Łukasińskiego	9h		Dąbrowa Górnicza			PL		50.3239527	19.1764678	node/3006654074				ING Bank	27
+28	ING	Francuska	11		Katowice			PL		50.2561136	19.0276562	node/3684289908				ING Bank	28
+29	ING	Karola Miarki	10		Mikołów			PL		50.1699903	18.9019901	node/3711887894				ING Bank	29
+30	ING	Dworcowa	3		Katowice			PL		50.2576744	19.0230433	node/3780916367				ING Bank	30
+31	ING	Świętego Stanisława	5		Katowice			PL		50.2581725	19.0261349	node/3822609814				ING Bank	31
+32	ING				Bytom			PL		50.3406579	18.9076254	node/4227823901				ING Bank	32
+33	ING	Tomasza Kotlarza	8		Katowice			PL		50.2791484	19.0090097	node/4275190139				ING Bank	33

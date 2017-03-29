@@ -1,0 +1,202 @@
+{  
+   "patterns":[  
+      {  
+         "accounts":[    
+               {  
+                  "monthlyIncomes":2500,
+                  "annualBonus":3000,
+                  "cashDeposits":[  
+                     200,
+                     100,
+                     50,
+                     100
+                  ]
+               }
+            ]
+      },
+      {  
+         "accounts":[    
+               {  
+                  "monthlyIncomes":2700,
+                  "annualBonus":1000,
+                  "cashDeposits":[  
+                     100,
+                     100,
+                     150,
+                     100
+                  ]
+               }
+            ]
+      },
+      {  
+         "accounts":[    
+               {  
+                  "monthlyIncomes":3200
+               },
+               {  
+                  "cashDeposits":[  
+                     20,
+                     100,
+                     50,
+                     50,
+                     80
+                  ]
+               }
+            ]
+      },
+      {  
+         "accounts":[    
+               {  
+                  "cashDeposits":[  
+                     500,
+                     600,
+                     800,
+                     900,
+                     1200,
+                     650,
+                     400
+                  ]
+               }
+            ]
+      },
+      {  
+         "accounts":[    
+               {  
+                  "monthlyIncomes":2000,
+                  "alimony":1000,
+                  "cashDeposits":[  
+                     50,
+                     50
+                  ]
+               }
+            ]
+      },
+      {  
+         "accounts":[    
+               {  
+                  "monthlyIncomes":2000,
+                  "cashDeposits":[  
+                     50,
+                     100,
+                     50,
+                     20
+                  ]
+               }
+            ]
+      },
+      {  
+         "accounts":[    
+               {  
+                  "parents":1000,
+                  "cashDeposits":[  
+                     50,
+                     100,
+                     50,
+                     20
+                  ]
+               }
+            ]
+      },
+      {  
+         "accounts":[    
+               {  
+                  "monthlyIncomes":5000,
+                  "quarterBonus":2500,
+                  "cashDeposits":[  
+                     300,
+                     650,
+                     50,
+                     70,
+                     140
+                  ]
+               },
+               {  
+                  "cashDeposits":[  
+                     200,
+                     700,
+                     150,
+                     100
+                  ]
+               }
+            ]
+      },
+      {  
+         "accounts":[    
+               {  
+                  "monthlyIncomes":4200,
+                  "quarterBonus":3000,
+                  "taxReturn":3500,
+                  "cashDeposits":[  
+                     150,
+                     200,
+                     50
+                  ]
+               },
+               {  
+                  "cashDeposits":[  
+                     300,
+                     200
+                  ]
+               }
+            ]
+      }
+   ],
+   "names":[  
+      "Maja Nowak",
+      "Hanna Buzek",
+      "Zofia King",
+      "Amelia Mazur",
+      "Alicja Dudek",
+      "Olga Pawlak",
+      "Natalia Baran",
+      "Lena Duda",
+      "Jan Kubiak",
+      "Adam Urban",
+      "Filip Wilk",
+      "Lech Lis",
+      "Karol Mazurek",
+      "Marek Krupa",
+      "Maja Kozak",
+      "Hanna Kania",
+      "Zofia Janik",
+      "Amelia Kot",
+      "Alicja Kruk",
+      "Olga Maj",
+      "Natalia Sowa",
+      "Lena Gajda",
+      "Jan Madej",
+      "Adam Werner",
+      "Filip Miller",
+      "Lech Koch",
+      "Karol Kowalski",
+      "Marek Lewandowski",
+      "Kinga Prus",
+      "Adam Kura",
+      "Agata Mak",
+      "Jurek Sroka",
+      "Emilia Paplak"
+   ],
+   "mailDomains":[  
+      "mail.eu",
+      "hot.com",
+      "user.com"
+   ],
+   "banks":[  
+      "ING Bank",
+      "Gotham City Bank",
+      "Gringotts Wizarding Bank"
+   ],
+   "cardPayments": [ 
+    [
+    {"name": "AIRBNB", "description": "card payment", "days": 150, "amount": 1000},
+    {"name": "JMP S.A. BIEDRONKA 3239", "description": "card payment", "days": 2, "amount": 30},
+    {"name": "MIYU SUSHI", "description": "card payment", "days": 50, "amount": 120},
+    {"name": "MICROSOFT *STORE", "description": "card payment", "days": 30, "amount": 15},
+    {"name": "APTEKA DR MAX", "description": "card payment", "days":44 , "amount": 70}
+    ] 
+   ],
+   "boss":[{
+            "name": "Global Enterprises Inc",
+            "account": "22222"
+        }]
+}

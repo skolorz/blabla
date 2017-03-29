@@ -1,0 +1,64 @@
+var atms = require("./atm.json");
+var fs = require("fs");
+var csvWriter = require('csv-write-stream')
+var result, id = 0;
+var options = {
+    separator: '\t',
+    newline: '\n',
+    headers: undefined,
+    sendHeaders: true
+},
+    writer = csvWriter(options);
+
+result = atms.features.map(function(atm){
+            if (atm.properties["addr:city"]){
+                id++;
+                return {
+                    matmid:
+                    id,
+                    mbankid:
+                    null,
+                    mline1:
+                    atm.properties["addr:street"],
+                    mline2:
+                    atm.properties["addr:housenumber"],
+                    mline3:
+                    null,
+                    mcity:
+                    atm.properties["addr:city"],
+                    mcounty:
+                    null, 
+                    mstate:
+                    null,  
+                    mcountrycode:
+                    "PL",
+                    mpostcode:
+                    null,   
+                    mlocationlatitude:
+                    atm.geometry.coordinates[1],
+                    mlocationlongitude:
+                    atm.geometry.coordinates[0],
+                    mlicenseid:
+                    atm.id,  
+                    mlicensename:
+                    null,    
+                    mname:
+                    null,
+                    id:
+                    id
+                };
+            };
+            return undefined;
+        })
+        .filter(function (atm){
+            return !!atm;
+        });
+
+
+writer.pipe(fs.createWriteStream('out.csv'))
+result.forEach(function (atm){
+            console.log(!!atm)
+    writer.write(atm);
+});
+writer.end();
+

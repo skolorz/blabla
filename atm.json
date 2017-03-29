@@ -1,0 +1,8151 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-03-28T11:18:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/300954850",
+      "properties": {
+        "@id": "node/300954850",
+        "amenity": "atm",
+        "name": "PKO B.P.",
+        "source": "ikonos",
+        "source_ref": "http://wiki.openstreetmap.org/index.php/User:Goldie#Licenses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6256788,
+          50.4039378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/325056780",
+      "properties": {
+        "@id": "node/325056780",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7862308,
+          50.3022318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/325890702",
+      "properties": {
+        "@id": "node/325890702",
+        "amenity": "atm",
+        "name": "Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0330775,
+          50.2537347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/325891254",
+      "properties": {
+        "@id": "node/325891254",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0302078,
+          50.250775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355278971",
+      "properties": {
+        "@id": "node/355278971",
+        "amenity": "atm",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7907482,
+          50.3032601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/371178395",
+      "properties": {
+        "@id": "node/371178395",
+        "amenity": "atm",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7870241,
+          50.3040136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/371237926",
+      "properties": {
+        "@id": "node/371237926",
+        "amenity": "atm",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7855231,
+          50.3064881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450138204",
+      "properties": {
+        "@id": "node/450138204",
+        "amenity": "atm",
+        "name": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9402752,
+          50.3333085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/484996234",
+      "properties": {
+        "@id": "node/484996234",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0709601,
+          50.3189782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/484996242",
+      "properties": {
+        "@id": "node/484996242",
+        "amenity": "atm",
+        "atm": "yes",
+        "name": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0731559,
+          50.3188167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/491513830",
+      "properties": {
+        "@id": "node/491513830",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0715409,
+          50.1078384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/552909814",
+      "properties": {
+        "@id": "node/552909814",
+        "addr:city": "Alwernia",
+        "addr:housenumber": "7",
+        "addr:street": "Zbigniewa Gęsikowskiego",
+        "amenity": "atm",
+        "name": "Pekao SA",
+        "source": "http://ump.waw.pl/ retrieved 01:24:13 09/02/09 (UMP-Krakow/src/KRAKOW.bankomaty.pnt-converted.txt)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.54297,
+          50.0661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/552909825",
+      "properties": {
+        "@id": "node/552909825",
+        "addr:city": "Alwernia",
+        "addr:housenumber": "7",
+        "addr:street": "Zbigniewa Gęsikowskiego",
+        "amenity": "atm",
+        "name": "PKO BP",
+        "source": "http://ump.waw.pl/ retrieved 01:24:13 09/02/09 (UMP-Krakow/src/KRAKOW.bankomaty.pnt-converted.txt)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5429476,
+          50.0662169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600000900",
+      "properties": {
+        "@id": "node/600000900",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2216411,
+          50.0389656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/618862682",
+      "properties": {
+        "@id": "node/618862682",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9078697,
+          50.3491721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/658635791",
+      "properties": {
+        "@id": "node/658635791",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9195801,
+          50.3469563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/658635796",
+      "properties": {
+        "@id": "node/658635796",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9216105,
+          50.3465108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/676760063",
+      "properties": {
+        "@id": "node/676760063",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9115163,
+          50.3501547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/801904709",
+      "properties": {
+        "@id": "node/801904709",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8961016,
+          50.3540997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/885432838",
+      "properties": {
+        "@id": "node/885432838",
+        "amenity": "atm",
+        "operator": "eCard",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.053708,
+          50.2590765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935788200",
+      "properties": {
+        "@id": "node/935788200",
+        "addr:city": "Jaworzno",
+        "addr:housenumber": "237",
+        "addr:street": "Grunwaldzka",
+        "amenity": "atm",
+        "atm_ref": "9928",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19864",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2510704,
+          50.2184268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935788504",
+      "properties": {
+        "@id": "node/935788504",
+        "addr:city": "Katowice",
+        "addr:housenumber": "3",
+        "addr:street": "Wojciecha",
+        "amenity": "atm",
+        "millennium:date": "2010-05-18 10:14:12",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "20889",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0606802,
+          50.2236166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935788695",
+      "properties": {
+        "@id": "node/935788695",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "4",
+        "addr:street": "Henryka Sienkiewicza",
+        "amenity": "atm",
+        "atm_ref": "2024503",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18675",
+        "millennium:subtype": "Euronet",
+        "name": "BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8693455,
+          50.2724923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935789255",
+      "properties": {
+        "@id": "node/935789255",
+        "amenity": "atm",
+        "atm_ref": "1186300",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19328",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1358604,
+          50.2417806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935789975",
+      "properties": {
+        "@id": "node/935789975",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "1",
+        "addr:street": "Jana III Sobieskiego",
+        "amenity": "atm",
+        "atm_ref": "2008230",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19070",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1861354,
+          50.3252964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790169",
+      "properties": {
+        "@id": "node/935790169",
+        "addr:city": "Jaworzno",
+        "addr:housenumber": "164",
+        "addr:street": "Grunwaldzka",
+        "amenity": "atm",
+        "atm_ref": "2024538",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19219",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2608,
+          50.2112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790329",
+      "properties": {
+        "@id": "node/935790329",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "2",
+        "addr:street": "Plac Piastów",
+        "amenity": "atm",
+        "atm_ref": "1766210",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19376",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6775065,
+          50.2976956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790641",
+      "properties": {
+        "@id": "node/935790641",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "13",
+        "addr:street": "Zwycięstwa",
+        "amenity": "atm",
+        "atm_ref": "ML2836A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "17991",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6683478,
+          50.2953217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790743",
+      "properties": {
+        "@id": "node/935790743",
+        "addr:city": "Tychy",
+        "addr:housenumber": "4",
+        "addr:street": "Michała Bałuckiego",
+        "amenity": "atm",
+        "atm_ref": "1652000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18782",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9819953,
+          50.1240754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790792",
+      "properties": {
+        "@id": "node/935790792",
+        "addr:city": "Knurów",
+        "addr:housenumber": "70",
+        "addr:street": "1 Maja",
+        "amenity": "atm",
+        "atm_ref": "9770",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19708",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6623,
+          50.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935790863",
+      "properties": {
+        "@id": "node/935790863",
+        "addr:city": "Katowice",
+        "addr:housenumber": "26",
+        "addr:street": "Tadeusza Kościuszki",
+        "amenity": "atm",
+        "atm_ref": "ML2043A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18012",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.017,
+          50.2538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935791029",
+      "properties": {
+        "@id": "node/935791029",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "150",
+        "addr:street": "Rybnicka",
+        "amenity": "atm",
+        "atm_ref": "2024534",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19099",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6612,
+          50.2745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935791054",
+      "properties": {
+        "@id": "node/935791054",
+        "addr:city": "Katowice",
+        "addr:housenumber": "12",
+        "addr:street": "Staromiejska",
+        "amenity": "atm",
+        "atm_ref": "1186210",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19157",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0240362,
+          50.2584321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935791554",
+      "properties": {
+        "@id": "node/935791554",
+        "addr:city": "Katowice",
+        "addr:housenumber": "6",
+        "addr:street": "Księdza Piotra Skargi",
+        "amenity": "atm",
+        "atm_ref": "8783",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19629",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0168,
+          50.2625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935791572",
+      "properties": {
+        "@id": "node/935791572",
+        "addr:city": "Sosnowiec",
+        "addr:country": "PL",
+        "addr:housenumber": "17",
+        "addr:street": "Modrzejowska",
+        "amenity": "atm",
+        "atm_ref": "2008220",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19029",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1294,
+          50.2764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935791685",
+      "properties": {
+        "@id": "node/935791685",
+        "addr:city": "Mysłowice",
+        "addr:housenumber": "4",
+        "addr:postcode": "41-400",
+        "addr:street": "Powstańców",
+        "amenity": "atm",
+        "atm_ref": "2024300",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18570",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1411382,
+          50.2405265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935791874",
+      "properties": {
+        "@id": "node/935791874",
+        "addr:city": "Tychy",
+        "addr:housenumber": "3",
+        "addr:street": "Zaręby",
+        "amenity": "atm",
+        "atm_ref": "8738",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19592",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9981,
+          50.0912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935791979",
+      "properties": {
+        "@id": "node/935791979",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "26",
+        "addr:street": "Tarnogórska",
+        "amenity": "atm",
+        "atm_ref": "1766320",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19074",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6822939,
+          50.3033042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792031",
+      "properties": {
+        "@id": "node/935792031",
+        "addr:city": "Pyrzowice",
+        "addr:housenumber": "90",
+        "addr:street": "Wolności",
+        "amenity": "atm",
+        "atm_ref": "8414",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19476",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0729031,
+          50.4709912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792099",
+      "properties": {
+        "@id": "node/935792099",
+        "addr:city": "Katowice",
+        "addr:housenumber": "200",
+        "addr:street": "Aleja Walentego Roździeńskiego",
+        "amenity": "atm",
+        "atm_ref": "2024507",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18953",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0620005,
+          50.2687898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792143",
+      "properties": {
+        "@id": "node/935792143",
+        "addr:city": "Tarnowskie Góry",
+        "addr:housenumber": "187",
+        "addr:street": "Zagórska",
+        "amenity": "atm",
+        "atm_ref": "2024545",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19288",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-20:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8365678,
+          50.4553468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792190",
+      "properties": {
+        "@id": "node/935792190",
+        "addr:city": "Tychy",
+        "addr:housenumber": "8b pawilon 5",
+        "addr:street": "Aleja marszałka Józefa Piłsudskiego",
+        "amenity": "atm",
+        "atm_ref": "8789",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19634",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9825,
+          50.1085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792284",
+      "properties": {
+        "@id": "node/935792284",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "40",
+        "addr:street": "Wolności",
+        "amenity": "atm",
+        "atm_ref": "ML2062A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "17937",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9496,
+          50.2955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792304",
+      "properties": {
+        "@id": "node/935792304",
+        "addr:city": "Katowice",
+        "addr:housenumber": "13",
+        "addr:street": "3 Maja",
+        "amenity": "atm",
+        "atm_ref": "ML2035A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18011",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0188084,
+          50.2596915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792311",
+      "properties": {
+        "@id": "node/935792311",
+        "addr:city": "Czeladź",
+        "addr:housenumber": "80",
+        "addr:street": "Będzińska",
+        "amenity": "atm",
+        "atm_ref": "2024512",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18924",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1044226,
+          50.3206081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792612",
+      "properties": {
+        "@id": "node/935792612",
+        "addr:city": "Katowice",
+        "addr:housenumber": "2",
+        "addr:street": "Stanisława Moniuszki",
+        "amenity": "atm",
+        "atm_ref": "MBPL204A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18423",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0229,
+          50.2609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792751",
+      "properties": {
+        "@id": "node/935792751",
+        "addr:city": "Katowice",
+        "addr:housenumber": "2",
+        "addr:street": "Wita Stwosza",
+        "amenity": "atm",
+        "atm_ref": "1186000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19446",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0190245,
+          50.2541413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935792794",
+      "properties": {
+        "@id": "node/935792794",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "1",
+        "addr:street": "Dolnych Wałów",
+        "amenity": "atm",
+        "atm_ref": "1766001",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18930",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6684828,
+          50.2935121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935793253",
+      "properties": {
+        "@id": "node/935793253",
+        "addr:city": "Olkusz",
+        "addr:country": "PL",
+        "addr:housenumber": "2",
+        "addr:postcode": "32-300",
+        "addr:street": "Rabsztyńska",
+        "amenity": "atm",
+        "atm_ref": "9946",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19882",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.567821,
+          50.2814613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935793519",
+      "properties": {
+        "@id": "node/935793519",
+        "addr:city": "Katowice",
+        "addr:housenumber": "12",
+        "addr:street": "Tysiąclecia",
+        "amenity": "atm",
+        "atm_ref": "9769",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19707",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Euromet",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9759199,
+          50.2770115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935793704",
+      "properties": {
+        "@id": "node/935793704",
+        "addr:city": "Katowice",
+        "addr:housenumber": "11",
+        "addr:street": "Chorzowska",
+        "amenity": "atm",
+        "atm_ref": "ML2326A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18394",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0187915,
+          50.2659946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935794347",
+      "properties": {
+        "@id": "node/935794347",
+        "addr:city": "Knurów",
+        "addr:housenumber": "18",
+        "addr:street": "Kosmonautów",
+        "amenity": "atm",
+        "atm_ref": "1766340",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19405",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6600012,
+          50.2322872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935794682",
+      "properties": {
+        "@id": "node/935794682",
+        "addr:city": "Tychy",
+        "addr:housenumber": "44",
+        "addr:street": "Stefana Grota-Roweckiego",
+        "amenity": "atm",
+        "atm_ref": "1652220",
+        "name": "Bankomat BZ WBK",
+        "operator": "BZ WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9897,
+          50.1161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935794699",
+      "properties": {
+        "@id": "node/935794699",
+        "addr:city": "Bytom",
+        "addr:housenumber": "30a",
+        "addr:postcode": "41-907",
+        "addr:street": "Zabrzańska",
+        "amenity": "atm",
+        "atm_ref": "2011210",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18984",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o.",
+        "phone": "32 388 77 02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9033234,
+          50.339379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935795105",
+      "properties": {
+        "@id": "node/935795105",
+        "addr:city": "Bytom",
+        "addr:housenumber": "25",
+        "addr:street": "Aleja Jana Nowaka-Jeziorańskiego",
+        "amenity": "atm",
+        "atm_ref": "9838",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19776",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.849,
+          50.3464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935795335",
+      "properties": {
+        "@id": "node/935795335",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "63",
+        "addr:street": "Zwycięstwa",
+        "amenity": "atm",
+        "atm_ref": "ML2848A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "17992",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6751,
+          50.2995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935795362",
+      "properties": {
+        "@id": "node/935795362",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "11",
+        "addr:postcode": "41-806",
+        "addr:street": "Księdza Pawła Janika",
+        "amenity": "atm",
+        "atm_ref": "9950",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19885",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.834987,
+          50.3006434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935795610",
+      "properties": {
+        "@id": "node/935795610",
+        "addr:city": "Tychy",
+        "addr:street": "Katowicka",
+        "amenity": "atm",
+        "atm_ref": "2024524",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19101",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9921217,
+          50.1325625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935795986",
+      "properties": {
+        "@id": "node/935795986",
+        "addr:city": "Olkusz",
+        "addr:country": "PL",
+        "addr:housenumber": "13",
+        "addr:postcode": "32-300",
+        "addr:street": "Sławkowska",
+        "amenity": "atm",
+        "atm_ref": "1665320",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19432",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5540717,
+          50.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935796002",
+      "properties": {
+        "@id": "node/935796002",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "1",
+        "addr:street": "Aleja Jana Nowaka-Jeziorańskiego",
+        "amenity": "atm",
+        "atm_ref": "2024531",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18575",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6467,
+          50.3074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935796288",
+      "properties": {
+        "@id": "node/935796288",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "13",
+        "addr:street": "Karola Goduli",
+        "amenity": "atm",
+        "atm_ref": "2024551",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19299",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8862921,
+          50.3132806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935796369",
+      "properties": {
+        "@id": "node/935796369",
+        "addr:city": "Bytom",
+        "addr:housenumber": "25",
+        "addr:street": "Aleja Jana Nowaka-Jeziorańskiego",
+        "amenity": "atm",
+        "atm_ref": "2024526",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19437",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Su 22:00-24:00,00:00-09:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8489,
+          50.3463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935796599",
+      "properties": {
+        "@id": "node/935796599",
+        "addr:city": "Mysłowice",
+        "addr:housenumber": "61",
+        "addr:postcode": "41-400",
+        "addr:street": "Stanisława Moniuszki",
+        "amenity": "atm",
+        "atm_ref": "2024516",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18546",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1273806,
+          50.2367095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935796857",
+      "properties": {
+        "@id": "node/935796857",
+        "addr:city": "Piekary Śląskie",
+        "addr:housenumber": "41",
+        "addr:street": "Bytomska",
+        "amenity": "atm",
+        "atm_ref": "2024621",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19253",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-20:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.943203,
+          50.3698264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935796918",
+      "properties": {
+        "@id": "node/935796918",
+        "addr:city": "Katowice",
+        "addr:housenumber": "32",
+        "addr:street": "Lwowska",
+        "amenity": "atm",
+        "atm_ref": "9941",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19877",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0935,
+          50.2567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797025",
+      "properties": {
+        "@id": "node/935797025",
+        "amenity": "atm",
+        "atm_ref": "9945",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19881",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2689582,
+          50.1967776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797289",
+      "properties": {
+        "@id": "node/935797289",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "1",
+        "addr:street": "Antoniego Nowary",
+        "amenity": "atm",
+        "atm_ref": "2024320",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18496",
+        "millennium:subtype": "Euronet",
+        "name": "BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8738208,
+          50.2702888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797387",
+      "properties": {
+        "@id": "node/935797387",
+        "addr:city": "Mysłowice",
+        "addr:housenumber": "1",
+        "addr:street": "Grunwaldzka",
+        "amenity": "atm",
+        "atm_ref": "ML2055A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18068",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1398027,
+          50.244062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797554",
+      "properties": {
+        "@id": "node/935797554",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "9",
+        "addr:street": "3 Maja",
+        "amenity": "atm",
+        "atm_ref": "2024330",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19462",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1837819,
+          50.3239666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797696",
+      "properties": {
+        "@id": "node/935797696",
+        "addr:city": "Katowice",
+        "addr:housenumber": "4",
+        "addr:street": "Wiosny Ludów",
+        "amenity": "atm",
+        "atm_ref": "2008200",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18840",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0967673,
+          50.2624582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797757",
+      "properties": {
+        "@id": "node/935797757",
+        "addr:city": "Bytom",
+        "addr:housenumber": "4",
+        "addr:street": "Dworcowa",
+        "amenity": "atm",
+        "atm_ref": "2011000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18909",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9183079,
+          50.3465745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797907",
+      "properties": {
+        "@id": "node/935797907",
+        "addr:city": "Katowice",
+        "addr:housenumber": "107",
+        "addr:street": "Chorzowska",
+        "amenity": "atm",
+        "atm_ref": "ML2940A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18271",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Millennium",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0046368,
+          50.2692646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935797926",
+      "properties": {
+        "@id": "node/935797926",
+        "addr:city": "Zabrze",
+        "amenity": "atm",
+        "atm_ref": "8404",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19466",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7771,
+          50.3188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798007",
+      "properties": {
+        "@id": "node/935798007",
+        "addr:city": "Siemianowice Śląskie",
+        "addr:housenumber": "8",
+        "addr:street": "Śląska",
+        "amenity": "atm",
+        "name": "Bankomat Millennium",
+        "operator": "Millenium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0312,
+          50.3024273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798099",
+      "properties": {
+        "@id": "node/935798099",
+        "addr:city": "Katowice",
+        "addr:housenumber": "5",
+        "addr:street": "Aleja Wojciecha Korfantego",
+        "amenity": "atm",
+        "atm_ref": "1809000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18849",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0230074,
+          50.2615829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798101",
+      "properties": {
+        "@id": "node/935798101",
+        "addr:city": "Czeladź",
+        "addr:housenumber": "1",
+        "addr:street": "Będzińska",
+        "amenity": "atm",
+        "atm_ref": "2024509",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19124",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1084,
+          50.3173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798103",
+      "properties": {
+        "@id": "node/935798103",
+        "addr:city": "Sosnowiec",
+        "addr:housenumber": "30",
+        "addr:street": "Orla",
+        "amenity": "atm",
+        "millennium:date": "2009-09-14 14:49:45",
+        "millennium:ref": "20419",
+        "name": "Millennium Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Millennium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1322553,
+          50.2904764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798122",
+      "properties": {
+        "@id": "node/935798122",
+        "addr:city": "Katowice",
+        "addr:housenumber": "200",
+        "addr:street": "Aleja Walentego Roździeńskiego",
+        "amenity": "atm",
+        "atm_ref": "9836",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19774",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.062,
+          50.2688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798196",
+      "properties": {
+        "@id": "node/935798196",
+        "addr:city": "Tarnowskie Góry",
+        "addr:housenumber": "1",
+        "addr:street": "Oświęcimska",
+        "amenity": "atm",
+        "atm_ref": "1825000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18988",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Bank Spółdzielczy",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8607686,
+          50.4429343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798231",
+      "properties": {
+        "@id": "node/935798231",
+        "addr:city": "Tychy",
+        "addr:housenumber": "12",
+        "addr:street": "Karola Kurpińskiego",
+        "amenity": "atm",
+        "atm_ref": "8763",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19613",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o.",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9735,
+          50.1095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798320",
+      "properties": {
+        "@id": "node/935798320",
+        "addr:city": "Pyrzowice",
+        "addr:housenumber": "90",
+        "addr:street": "Wolności",
+        "amenity": "atm",
+        "atm_ref": "2024510",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19146",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0731106,
+          50.4709925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798395",
+      "properties": {
+        "@id": "node/935798395",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "299",
+        "addr:postcode": "41-800",
+        "addr:street": "Wolności",
+        "amenity": "atm",
+        "atm_ref": "1766200",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19225",
+        "millennium:subtype": "Euronet",
+        "name": "BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7871281,
+          50.3063701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798720",
+      "properties": {
+        "@id": "node/935798720",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "12",
+        "addr:street": "Bohaterów Getta Warszawskiego",
+        "amenity": "atm",
+        "atm_ref": "2024533",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19097",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6751,
+          50.301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798740",
+      "properties": {
+        "@id": "node/935798740",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "30",
+        "addr:street": "Zwycięstwa",
+        "amenity": "atm",
+        "atm_ref": "2024210",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19156",
+        "millennium:subtype": "Euronet",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6707109,
+          50.296422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798746",
+      "properties": {
+        "@id": "node/935798746",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "1",
+        "addr:street": "Aleja Jana Nowaka-Jeziorańskiego",
+        "amenity": "atm",
+        "atm_ref": "9808",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19746",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6467318,
+          50.3075087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798778",
+      "properties": {
+        "@id": "node/935798778",
+        "addr:city": "Tarnowskie Góry",
+        "addr:housenumber": "6",
+        "addr:street": "Rynek",
+        "amenity": "atm",
+        "atm_ref": "2024536",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19231",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8563942,
+          50.4441749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935798858",
+      "properties": {
+        "@id": "node/935798858",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "10",
+        "addr:postcode": "41-800",
+        "addr:street": "Plac Teatralny",
+        "amenity": "atm",
+        "atm_ref": "2037250",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19066",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7890508,
+          50.3114632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935799063",
+      "properties": {
+        "@id": "node/935799063",
+        "addr:city": "Tarnowskie Góry",
+        "addr:housenumber": "16",
+        "addr:street": "Obwodnica",
+        "amenity": "atm",
+        "atm_ref": "2024546",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19355",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 10:00-19:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8416759,
+          50.4368837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935799189",
+      "properties": {
+        "@id": "node/935799189",
+        "addr:city": "Piekary Śląskie",
+        "addr:housenumber": "2",
+        "addr:street": "Kamienna",
+        "amenity": "atm",
+        "atm_ref": "2024620",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19239",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9659507,
+          50.3923702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935799345",
+      "properties": {
+        "@id": "node/935799345",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "44",
+        "addr:street": "Piotra Niedurnego",
+        "amenity": "atm",
+        "atm_ref": "2037000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18609",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8758809,
+          50.2867366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935799443",
+      "properties": {
+        "@id": "node/935799443",
+        "addr:city": "Sosnowiec",
+        "addr:country": "PL",
+        "addr:housenumber": "14",
+        "addr:street": "Modrzejowska",
+        "amenity": "atm",
+        "atm_ref": "ML2059A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18133",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.129,
+          50.2768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935799809",
+      "properties": {
+        "@id": "node/935799809",
+        "addr:city": "Piekary Śląskie",
+        "addr:housenumber": "171",
+        "addr:street": "Bytomska",
+        "amenity": "atm",
+        "atm_ref": "2011300",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18698",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9441,
+          50.3845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935799834",
+      "properties": {
+        "@id": "node/935799834",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "12",
+        "addr:postcode": "41-800",
+        "addr:street": "Plac Teatralny",
+        "amenity": "atm",
+        "atm_ref": "MBPL377A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18421",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7880344,
+          50.3111533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935799976",
+      "properties": {
+        "@id": "node/935799976",
+        "addr:city": "Katowice",
+        "addr:housenumber": "4",
+        "addr:street": "Wawelska",
+        "amenity": "atm",
+        "atm_ref": "ML2041B",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18014",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.019949,
+          50.2591097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800030",
+      "properties": {
+        "@id": "node/935800030",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "28",
+        "addr:postcode": "41-807",
+        "addr:street": "Fryderyka Chopina",
+        "amenity": "atm",
+        "atm_ref": "9864",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19802",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7823268,
+          50.3351667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800061",
+      "properties": {
+        "@id": "node/935800061",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "176/197",
+        "addr:street": "3 Maja",
+        "amenity": "atm",
+        "atm_ref": "8750",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19604",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9230432,
+          50.3038508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800406",
+      "properties": {
+        "@id": "node/935800406",
+        "addr:city": "Żory",
+        "addr:housenumber": "1",
+        "addr:street": "Piotra Klimka",
+        "amenity": "atm",
+        "atm_ref": "ML2192A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18255",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6932921,
+          50.0455626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800555",
+      "properties": {
+        "@id": "node/935800555",
+        "addr:city": "Katowice",
+        "addr:housenumber": "61",
+        "addr:street": "Katowicka",
+        "amenity": "atm",
+        "atm_ref": "2008000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18830",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.026118,
+          50.2698303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800591",
+      "properties": {
+        "@id": "node/935800591",
+        "addr:city": "Siemianowice Śląskie",
+        "addr:housenumber": "24",
+        "addr:street": "Śląska",
+        "amenity": "atm",
+        "atm_ref": "2024310",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19415",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0296008,
+          50.3034068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800768",
+      "properties": {
+        "@id": "node/935800768",
+        "addr:city": "Sosnowiec",
+        "addr:housenumber": "37",
+        "addr:street": "Generała Stefana Grota-Roweckiego",
+        "amenity": "atm",
+        "atm_ref": "2024630",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19322",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1218876,
+          50.2872442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935800913",
+      "properties": {
+        "@id": "node/935800913",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "72",
+        "addr:street": "Katowicka",
+        "amenity": "atm",
+        "atm_ref": "2024000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18866",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9547,
+          50.2985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801069",
+      "properties": {
+        "@id": "node/935801069",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "2",
+        "addr:street": "Gustawa Morcinka",
+        "amenity": "atm",
+        "atm_ref": "2024640",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19290",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-20:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2159008,
+          50.3319286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801103",
+      "properties": {
+        "@id": "node/935801103",
+        "addr:city": "Świętochłowice",
+        "addr:housenumber": "54",
+        "addr:street": "Katowicka",
+        "amenity": "atm",
+        "atm_ref": "2024501",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19044",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9313789,
+          50.2854398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801192",
+      "properties": {
+        "@id": "node/935801192",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "12",
+        "addr:street": "Rynek",
+        "amenity": "atm",
+        "atm_ref": "ML3122A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "17939",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4054267,
+          50.1419506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801645",
+      "properties": {
+        "@id": "node/935801645",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "6",
+        "addr:street": "Rynek",
+        "amenity": "atm",
+        "atm_ref": "1665300",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19224",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4057472,
+          50.1426314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801669",
+      "properties": {
+        "@id": "node/935801669",
+        "addr:city": "Sosnowiec",
+        "addr:housenumber": "6",
+        "addr:street": "Warszawska",
+        "amenity": "atm",
+        "atm_ref": "ML2827A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18135",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1277317,
+          50.2772731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801730",
+      "properties": {
+        "@id": "node/935801730",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "45",
+        "addr:street": "Karola Goduli",
+        "amenity": "atm",
+        "atm_ref": "9771",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19709",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8901481,
+          50.3238255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801789",
+      "properties": {
+        "@id": "node/935801789",
+        "addr:city": "Ruda Śląska",
+        "addr:housenumber": "16",
+        "addr:street": "Marszałka Józefa Piłsudskiego",
+        "amenity": "atm",
+        "atm_ref": "2024550",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19264",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9015637,
+          50.2531923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801828",
+      "properties": {
+        "@id": "node/935801828",
+        "addr:city": "Gliwice",
+        "addr:housenumber": "3",
+        "addr:street": "Lipowa",
+        "amenity": "atm",
+        "atm_ref": "2024540",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19019",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat BZ WBK",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6844864,
+          50.300223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801898",
+      "properties": {
+        "@id": "node/935801898",
+        "addr:city": "Tychy",
+        "addr:housenumber": "39",
+        "addr:street": "Aleja Niepodległości",
+        "amenity": "atm",
+        "atm_ref": "ML2077A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18170",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9913057,
+          50.1168956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801929",
+      "properties": {
+        "@id": "node/935801929",
+        "addr:city": "Tychy",
+        "addr:housenumber": "44",
+        "addr:street": "Edukacji",
+        "amenity": "atm",
+        "atm_ref": "9774",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19712",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9944783,
+          50.1189394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935801937",
+      "properties": {
+        "@id": "node/935801937",
+        "addr:city": "Bytom",
+        "addr:street": "Generała Władysława Andersa",
+        "amenity": "atm",
+        "atm_ref": "8403",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19465",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8583276,
+          50.356724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802030",
+      "properties": {
+        "@id": "node/935802030",
+        "addr:city": "Katowice",
+        "addr:housenumber": "101",
+        "addr:street": "Aleja Wojciecha Korfantego",
+        "amenity": "atm",
+        "atm_ref": "2024517",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19102",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0241472,
+          50.2752483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802031",
+      "properties": {
+        "@id": "node/935802031",
+        "addr:city": "Dąbrowa Górnicza",
+        "addr:housenumber": "13",
+        "addr:street": "3 Maja",
+        "amenity": "atm",
+        "atm_ref": "ML2048A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "17943",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1838041,
+          50.323253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802155",
+      "properties": {
+        "@id": "node/935802155",
+        "amenity": "atm",
+        "atm_ref": "MLF97307",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18273",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0211206,
+          50.2562337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802219",
+      "properties": {
+        "@id": "node/935802219",
+        "addr:city": "Tychy",
+        "addr:housenumber": "9",
+        "addr:street": "Romana Dmowskiego",
+        "amenity": "atm",
+        "atm_ref": "1652230",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "19298",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9848505,
+          50.1113028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802366",
+      "properties": {
+        "@id": "node/935802366",
+        "addr:city": "Będzin",
+        "addr:housenumber": "32",
+        "addr:street": "Stanisława Małachowskiego",
+        "amenity": "atm",
+        "atm_ref": "ML2056A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "17914",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1339,
+          50.3218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802371",
+      "properties": {
+        "@id": "node/935802371",
+        "addr:city": "Chorzów",
+        "addr:housenumber": "20 (ATM 2)",
+        "addr:street": "Parkowa",
+        "amenity": "atm",
+        "atm_ref": "9806",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19744",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9672423,
+          50.2903273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935802483",
+      "properties": {
+        "@id": "node/935802483",
+        "addr:city": "Żory",
+        "addr:housenumber": "8",
+        "addr:street": "Wodzisławska",
+        "amenity": "atm",
+        "atm_ref": "9775",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19713",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6866,
+          50.0425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935803010",
+      "properties": {
+        "@id": "node/935803010",
+        "addr:city": "Bytom",
+        "addr:country": "PL",
+        "addr:housenumber": "5",
+        "addr:street": "Łużycka",
+        "amenity": "atm",
+        "atm_ref": "8402",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19464",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Cash4You",
+        "operator": "Cash 4 You",
+        "source": "zVID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8947171,
+          50.3514559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935803171",
+      "properties": {
+        "@id": "node/935803171",
+        "addr:city": "Katowice",
+        "addr:housenumber": "2",
+        "addr:street": "Plac doktora Józefa Rostka",
+        "amenity": "atm",
+        "atm_ref": "ML2036A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18010",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0108756,
+          50.2552762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935803181",
+      "properties": {
+        "@id": "node/935803181",
+        "addr:city": "Katowice",
+        "addr:housenumber": "20",
+        "addr:street": "Adama Mickiewicza",
+        "amenity": "atm",
+        "atm_ref": "ML2316A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18380",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0188643,
+          50.2608485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935803316",
+      "properties": {
+        "@id": "node/935803316",
+        "addr:city": "Trzebinia",
+        "addr:housenumber": "1",
+        "addr:street": "Rynek",
+        "amenity": "atm",
+        "atm_ref": "MLF97304",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18287",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4706824,
+          50.1595442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/935803412",
+      "properties": {
+        "@id": "node/935803412",
+        "addr:city": "Bytom",
+        "addr:housenumber": "96",
+        "addr:postcode": "41-914",
+        "addr:street": "Strzelców Bytomskich",
+        "amenity": "atm",
+        "atm_ref": "2024513",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Euronet",
+        "millennium:ref": "18933",
+        "millennium:subtype": "Millennium",
+        "name": "Euronet",
+        "opening_hours": "Mo-Sa 09:00-21:00;Su 09:00-20:00",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8915128,
+          50.3790739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/938166417",
+      "properties": {
+        "@id": "node/938166417",
+        "addr:city": "Bytom",
+        "addr:housenumber": "1",
+        "addr:street": "Krakowska",
+        "amenity": "atm",
+        "atm_ref": "1779000",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "BZ WBK",
+        "millennium:ref": "18900",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat BZ WBK",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9248078,
+          50.3465538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1038494202",
+      "properties": {
+        "@id": "node/1038494202",
+        "amenity": "atm",
+        "operator": "eCard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6447892,
+          50.2994481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1065972640",
+      "properties": {
+        "@id": "node/1065972640",
+        "amenity": "atm",
+        "operator": "eCard",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1316448,
+          50.2960118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1126998139",
+      "properties": {
+        "@id": "node/1126998139",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8900717,
+          50.3376154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1138989097",
+      "properties": {
+        "@id": "node/1138989097",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8507112,
+          50.3713266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1176086476",
+      "properties": {
+        "@id": "node/1176086476",
+        "addr:city": "Oświęcim",
+        "addr:housenumber": "24",
+        "addr:postcode": "32-600",
+        "addr:street": "Andrzeja Nideckiego",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2148823,
+          50.0469227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1279674268",
+      "properties": {
+        "@id": "node/1279674268",
+        "amenity": "atm",
+        "operator": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9820007,
+          50.2102496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1279674276",
+      "properties": {
+        "@id": "node/1279674276",
+        "addr:city": "Katowice",
+        "addr:housenumber": "15D",
+        "addr:street": "Generała Zygmunta Waltera Jankego",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9906526,
+          50.2199515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1293026595",
+      "properties": {
+        "@id": "node/1293026595",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.255977,
+          50.2155157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1299868196",
+      "properties": {
+        "@id": "node/1299868196",
+        "amenity": "atm",
+        "fee": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2561544,
+          50.1846777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1312530211",
+      "properties": {
+        "@id": "node/1312530211",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9934482,
+          50.2302259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1312530214",
+      "properties": {
+        "@id": "node/1312530214",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9843332,
+          50.2187265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1372004678",
+      "properties": {
+        "@id": "node/1372004678",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8268101,
+          50.4438527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1372004679",
+      "properties": {
+        "@id": "node/1372004679",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.826095,
+          50.444575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1450796200",
+      "properties": {
+        "@id": "node/1450796200",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6577513,
+          50.2791398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1451083475",
+      "properties": {
+        "@id": "node/1451083475",
+        "amenity": "atm",
+        "operator": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6881784,
+          50.0422729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1451241617",
+      "properties": {
+        "@id": "node/1451241617",
+        "amenity": "atm",
+        "operator": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7035852,
+          50.0395502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1451244873",
+      "properties": {
+        "@id": "node/1451244873",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7018913,
+          50.0398986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1452479196",
+      "properties": {
+        "@id": "node/1452479196",
+        "amenity": "atm",
+        "drive_through": "no",
+        "name": "PKO BP",
+        "operator": "PKO BP",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8655951,
+          50.275136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470645556",
+      "properties": {
+        "@id": "node/1470645556",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.978214,
+          50.1996797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1470664026",
+      "properties": {
+        "@id": "node/1470664026",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5625714,
+          50.3379688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1489886470",
+      "properties": {
+        "@id": "node/1489886470",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5397344,
+          50.0594305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1493659483",
+      "properties": {
+        "@id": "node/1493659483",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9988085,
+          50.1134726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1493659494",
+      "properties": {
+        "@id": "node/1493659494",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9987171,
+          50.1133601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1499480047",
+      "properties": {
+        "@id": "node/1499480047",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8414197,
+          50.2436163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1502261793",
+      "properties": {
+        "@id": "node/1502261793",
+        "amenity": "atm",
+        "operator": "eCard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8720968,
+          50.2700167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1515216371",
+      "properties": {
+        "@id": "node/1515216371",
+        "addr:city": "Tarnowskie Góry",
+        "addr:housenumber": "5",
+        "addr:street": "Tadeusza Kościuszki",
+        "amenity": "atm",
+        "atm_ref": "9803",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Cash4You",
+        "millennium:ref": "19741",
+        "millennium:subtype": "Millennium",
+        "name": "Bankomat Cash4You",
+        "operator": "Bank Millennium S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8592785,
+          50.4507179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1517927701",
+      "properties": {
+        "@id": "node/1517927701",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0304048,
+          50.2451333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1518599271",
+      "properties": {
+        "@id": "node/1518599271",
+        "amenity": "atm",
+        "atm": "yes",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9006388,
+          50.1708593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519964379",
+      "properties": {
+        "@id": "node/1519964379",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o.",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8529448,
+          50.2836653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1535110458",
+      "properties": {
+        "@id": "node/1535110458",
+        "amenity": "atm",
+        "operator": "Bank Polskiej Spółdzielczości SA",
+        "source": "local knowledge",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5956581,
+          50.1726518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557330873",
+      "properties": {
+        "@id": "node/1557330873",
+        "amenity": "atm",
+        "fee": "PKO Bankomat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2389281,
+          50.2915086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1561835194",
+      "properties": {
+        "@id": "node/1561835194",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0716519,
+          50.3214364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1561890670",
+      "properties": {
+        "@id": "node/1561890670",
+        "amenity": "atm",
+        "operator": "PKO BP S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0704448,
+          50.3213765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1565061732",
+      "properties": {
+        "@id": "node/1565061732",
+        "amenity": "atm",
+        "name": "PKO BP",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8613892,
+          50.4450352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1568937296",
+      "properties": {
+        "@id": "node/1568937296",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2125442,
+          50.3182172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1568937299",
+      "properties": {
+        "@id": "node/1568937299",
+        "amenity": "atm",
+        "operator": "Bank Gospodarki Żywnościowej S.A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2124849,
+          50.3186584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1600772534",
+      "properties": {
+        "@id": "node/1600772534",
+        "amenity": "atm",
+        "operator": "ING Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9014735,
+          50.2531792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1646056937",
+      "properties": {
+        "@id": "node/1646056937",
+        "amenity": "atm",
+        "name": "Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2383106,
+          50.0348908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1648470094",
+      "properties": {
+        "@id": "node/1648470094",
+        "amenity": "atm",
+        "drive_through": "no",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9048571,
+          50.1690659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1652884123",
+      "properties": {
+        "@id": "node/1652884123",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6539961,
+          50.2288969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1696143592",
+      "properties": {
+        "@id": "node/1696143592",
+        "amenity": "atm",
+        "name": "Bankomat ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7977696,
+          50.3655761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713457620",
+      "properties": {
+        "@id": "node/1713457620",
+        "addr:city": "Katowice",
+        "addr:housenumber": "70b",
+        "addr:street": "Marcina Radockiego",
+        "amenity": "atm",
+        "name": "Cash for You"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9890307,
+          50.2062278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1718201877",
+      "properties": {
+        "@id": "node/1718201877",
+        "amenity": "atm",
+        "fee": "PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7318886,
+          50.2911808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1718409202",
+      "properties": {
+        "@id": "node/1718409202",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8752262,
+          50.2899156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1722027348",
+      "properties": {
+        "@id": "node/1722027348",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0248916,
+          50.2536398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1724548775",
+      "properties": {
+        "@id": "node/1724548775",
+        "amenity": "atm",
+        "drive_through": "no",
+        "name": "ING Bank Śląski",
+        "operator": "ING Bank Śląski",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8663865,
+          50.2753717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1724548779",
+      "properties": {
+        "@id": "node/1724548779",
+        "amenity": "atm",
+        "drive_through": "no",
+        "name": "Euronet",
+        "operator": "Euronet Sp. z o.o.",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8662922,
+          50.2753956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1736297787",
+      "properties": {
+        "@id": "node/1736297787",
+        "addr:city": "Trzebinia",
+        "addr:housenumber": "5",
+        "addr:street": "Rynek",
+        "amenity": "atm",
+        "name": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4720864,
+          50.1590372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740126137",
+      "properties": {
+        "@id": "node/1740126137",
+        "amenity": "atm",
+        "name": "PKO BP",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8506334,
+          50.3674131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1750951566",
+      "properties": {
+        "@id": "node/1750951566",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0374615,
+          50.2451151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1758659788",
+      "properties": {
+        "@id": "node/1758659788",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "256/267",
+        "addr:postcode": "41-800",
+        "addr:street": "Wolności",
+        "amenity": "atm",
+        "atm_ref": "ML2988A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18249",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7798981,
+          50.3071989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1759853352",
+      "properties": {
+        "@id": "node/1759853352",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6455553,
+          50.2984418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1773382612",
+      "properties": {
+        "@id": "node/1773382612",
+        "amenity": "atm",
+        "operator": "e Card",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8856187,
+          50.2698454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1773499699",
+      "properties": {
+        "@id": "node/1773499699",
+        "amenity": "atm",
+        "operator": "e Card",
+        "source": "OSM Tracker, knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8697642,
+          50.2737764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1781606483",
+      "properties": {
+        "@id": "node/1781606483",
+        "amenity": "atm",
+        "name": "Alior Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7820645,
+          50.3378444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1783939361",
+      "properties": {
+        "@id": "node/1783939361",
+        "amenity": "atm",
+        "operator": "Pekao SA",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.212839,
+          50.0450107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793656063",
+      "properties": {
+        "@id": "node/1793656063",
+        "amenity": "atm",
+        "operator": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.981158,
+          50.3671699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794843716",
+      "properties": {
+        "@id": "node/1794843716",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9829204,
+          50.1263608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794927780",
+      "properties": {
+        "@id": "node/1794927780",
+        "amenity": "atm",
+        "operator": "PKO S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9782675,
+          50.1242782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1798687154",
+      "properties": {
+        "@id": "node/1798687154",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6727704,
+          50.2947981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1810340394",
+      "properties": {
+        "@id": "node/1810340394",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8815908,
+          50.3144897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1831672194",
+      "properties": {
+        "@id": "node/1831672194",
+        "amenity": "atm",
+        "fee": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2611092,
+          50.2097557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1839247119",
+      "properties": {
+        "@id": "node/1839247119",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9911636,
+          50.1162789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1870655934",
+      "properties": {
+        "@id": "node/1870655934",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.222484,
+          50.0261817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1893117795",
+      "properties": {
+        "@id": "node/1893117795",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1418466,
+          50.2420447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1904401552",
+      "properties": {
+        "@id": "node/1904401552",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9294973,
+          50.345595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1927592631",
+      "properties": {
+        "@id": "node/1927592631",
+        "amenity": "atm",
+        "operator": "PKO BP S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.073172,
+          50.3185729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1927674203",
+      "properties": {
+        "@id": "node/1927674203",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1830809,
+          50.3271433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1937688594",
+      "properties": {
+        "@id": "node/1937688594",
+        "amenity": "atm",
+        "name": "Bank BPH Oddział"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5601697,
+          50.2798393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1937710646",
+      "properties": {
+        "@id": "node/1937710646",
+        "amenity": "atm",
+        "fee": "Bankomat",
+        "operator": "Bank Pekao S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5605519,
+          50.2785132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1937730249",
+      "properties": {
+        "@id": "node/1937730249",
+        "amenity": "atm",
+        "fee": "Bankomat",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5617203,
+          50.2782596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1947396926",
+      "properties": {
+        "@id": "node/1947396926",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6688591,
+          50.2959216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1957432473",
+      "properties": {
+        "@id": "node/1957432473",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9457522,
+          50.4370263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1962656975",
+      "properties": {
+        "@id": "node/1962656975",
+        "amenity": "atm",
+        "operator": "Grupa BPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7244073,
+          50.2237321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1980164960",
+      "properties": {
+        "@id": "node/1980164960",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6171471,
+          50.3130638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1986178745",
+      "properties": {
+        "@id": "node/1986178745",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.67672,
+          50.2825002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2006283600",
+      "properties": {
+        "@id": "node/2006283600",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0291745,
+          50.2580337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2013018934",
+      "properties": {
+        "@id": "node/2013018934",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6285003,
+          50.3116044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2024544595",
+      "properties": {
+        "@id": "node/2024544595",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9363604,
+          50.2964947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2032594347",
+      "properties": {
+        "@id": "node/2032594347",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6177266,
+          50.3123722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2038180165",
+      "properties": {
+        "@id": "node/2038180165",
+        "amenity": "atm",
+        "operator": "PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1227072,
+          50.2691651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2066054577",
+      "properties": {
+        "@id": "node/2066054577",
+        "amenity": "atm",
+        "name": "Pekao",
+        "opening_hours": "24/7",
+        "operator": "Bank Pekao SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1601996,
+          50.2915446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2080812065",
+      "properties": {
+        "@id": "node/2080812065",
+        "amenity": "atm",
+        "operator": "PKO SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2333466,
+          50.0379049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2092975684",
+      "properties": {
+        "@id": "node/2092975684",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.666932,
+          50.2858296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2094886667",
+      "properties": {
+        "@id": "node/2094886667",
+        "amenity": "atm",
+        "fee": "Bankomat PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8358576,
+          50.3003776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2105949040",
+      "properties": {
+        "@id": "node/2105949040",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9190226,
+          50.3473846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2109138023",
+      "properties": {
+        "@id": "node/2109138023",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6631651,
+          50.2873997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2116922136",
+      "properties": {
+        "@id": "node/2116922136",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0435499,
+          50.1984196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2127602120",
+      "properties": {
+        "@id": "node/2127602120",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "27",
+        "addr:postcode": "41-819",
+        "addr:street": "Gdańska",
+        "amenity": "atm",
+        "building": "yes",
+        "name": "Planet Club",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7738766,
+          50.3183819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2148686154",
+      "properties": {
+        "@id": "node/2148686154",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6785173,
+          50.308129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2151620082",
+      "properties": {
+        "@id": "node/2151620082",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5656643,
+          50.2803434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2151620083",
+      "properties": {
+        "@id": "node/2151620083",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5674493,
+          50.2808162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164184326",
+      "properties": {
+        "@id": "node/2164184326",
+        "amenity": "atm",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9818207,
+          50.108513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164184349",
+      "properties": {
+        "@id": "node/2164184349",
+        "amenity": "atm",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9814988,
+          50.1081793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167303881",
+      "properties": {
+        "@id": "node/2167303881",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2064257,
+          50.0349827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167307061",
+      "properties": {
+        "@id": "node/2167307061",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2006586,
+          50.0406403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167380415",
+      "properties": {
+        "@id": "node/2167380415",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2240293,
+          50.0345737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167395530",
+      "properties": {
+        "@id": "node/2167395530",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2107517,
+          50.0377251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2169057483",
+      "properties": {
+        "@id": "node/2169057483",
+        "amenity": "atm",
+        "brand": "Pekao SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2391223,
+          50.033894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2169060479",
+      "properties": {
+        "@id": "node/2169060479",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2418885,
+          50.0354117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2169104541",
+      "properties": {
+        "@id": "node/2169104541",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2060515,
+          50.035481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2171894923",
+      "properties": {
+        "@id": "node/2171894923",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2550363,
+          50.0359267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2234986862",
+      "properties": {
+        "@id": "node/2234986862",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0758222,
+          50.2905388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2288476730",
+      "properties": {
+        "@id": "node/2288476730",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2017575,
+          50.0275539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2288478201",
+      "properties": {
+        "@id": "node/2288478201",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2143906,
+          50.0411874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2294375984",
+      "properties": {
+        "@id": "node/2294375984",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9590816,
+          50.2267689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2294375985",
+      "properties": {
+        "@id": "node/2294375985",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.949526,
+          50.2301442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2294626538",
+      "properties": {
+        "@id": "node/2294626538",
+        "amenity": "atm",
+        "operator": "SKOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0259321,
+          50.2619222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2295055598",
+      "properties": {
+        "@id": "node/2295055598",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9544604,
+          50.2241376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2296100999",
+      "properties": {
+        "@id": "node/2296100999",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0199845,
+          50.2606904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2374765164",
+      "properties": {
+        "@id": "node/2374765164",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "5",
+        "addr:postcode": "41-800",
+        "addr:street": "Aleja Wojciecha Korfantego",
+        "amenity": "atm",
+        "name": "Bankomat BZ WBK",
+        "note": "w budynku supermarketu KAUFLAND",
+        "operator": "BZ WBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7735759,
+          50.3128046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2374768982",
+      "properties": {
+        "@id": "node/2374768982",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "5",
+        "addr:postcode": "41-800",
+        "addr:street": "Aleja Wojciecha Korfantego",
+        "amenity": "atm",
+        "name": "Bankomat BPSSA",
+        "operator": "Bank Polskiej Spółdzielczości SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7736013,
+          50.3128675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2374776715",
+      "properties": {
+        "@id": "node/2374776715",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "20",
+        "addr:postcode": "41-800",
+        "addr:street": "Gdańska",
+        "amenity": "atm",
+        "name": "Euronet",
+        "note": "w budynku stacji paliw",
+        "operator": "Eutonet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7759049,
+          50.317367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2374786813",
+      "properties": {
+        "@id": "node/2374786813",
+        "addr:city": "Zabrze",
+        "addr:housenumber": "16",
+        "addr:postcode": "41-819",
+        "addr:street": "Karola Hermisza",
+        "amenity": "atm",
+        "name": "Euronet",
+        "note": "Biedronka, czynny 24h",
+        "operator": "Euronet",
+        "source": "http://www.euronetpolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7761746,
+          50.3183035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2385613110",
+      "properties": {
+        "@id": "node/2385613110",
+        "addr:city": "Chrzanów",
+        "addr:postcode": "32-500",
+        "addr:street": "Rynek",
+        "amenity": "atm",
+        "name": "PKO BP",
+        "operator": "PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4048085,
+          50.1427023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2390557852",
+      "properties": {
+        "@id": "node/2390557852",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6664474,
+          50.2892175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2390557854",
+      "properties": {
+        "@id": "node/2390557854",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6668165,
+          50.2890384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2448195965",
+      "properties": {
+        "@id": "node/2448195965",
+        "amenity": "atm",
+        "operator": "Pekao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6717205,
+          50.2915395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2451469728",
+      "properties": {
+        "@id": "node/2451469728",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6702343,
+          50.2814934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2451495123",
+      "properties": {
+        "@id": "node/2451495123",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9486542,
+          50.2938263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2454135667",
+      "properties": {
+        "@id": "node/2454135667",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1408498,
+          50.2727207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2483600062",
+      "properties": {
+        "@id": "node/2483600062",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.264762,
+          50.10052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488271664",
+      "properties": {
+        "@id": "node/2488271664",
+        "amenity": "atm",
+        "name": "Bankomat ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1742673,
+          50.3252957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488272403",
+      "properties": {
+        "@id": "node/2488272403",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.179775,
+          50.3224151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2488277575",
+      "properties": {
+        "@id": "node/2488277575",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1696489,
+          50.3199988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489176444",
+      "properties": {
+        "@id": "node/2489176444",
+        "amenity": "atm",
+        "name": "Bankomat ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1675184,
+          50.3170604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2491260282",
+      "properties": {
+        "@id": "node/2491260282",
+        "addr:city": "Chełmek",
+        "addr:housenumber": "8",
+        "addr:street": "Wojska Polskiego",
+        "amenity": "atm",
+        "name": "Bankomat BPS",
+        "opening_hours": "24/7",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2637099,
+          50.1028054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524736927",
+      "properties": {
+        "@id": "node/2524736927",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1250698,
+          50.2712227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524982453",
+      "properties": {
+        "@id": "node/2524982453",
+        "addr:housenumber": "65",
+        "addr:street": "Tadeusza Kościuszki",
+        "amenity": "atm",
+        "name": "Euronet",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9799547,
+          50.2147833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524987857",
+      "properties": {
+        "@id": "node/2524987857",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9794263,
+          50.2148622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2525720721",
+      "properties": {
+        "@id": "node/2525720721",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9740235,
+          50.2195747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2525720722",
+      "properties": {
+        "@id": "node/2525720722",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9696196,
+          50.2202851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2525720723",
+      "properties": {
+        "@id": "node/2525720723",
+        "amenity": "atm",
+        "operator": "eCard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9929912,
+          50.2364498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2534815040",
+      "properties": {
+        "@id": "node/2534815040",
+        "amenity": "atm",
+        "brand": "Bank Polskiej Spółdzielczości SA",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9800219,
+          50.1303598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2561139893",
+      "properties": {
+        "@id": "node/2561139893",
+        "addr:city": "Tarnowskie Góry",
+        "addr:housenumber": "23",
+        "addr:street": "Krakowska",
+        "amenity": "atm",
+        "atm_ref": "ML2076A",
+        "millennium:date": "2009-05-21 17:13:02",
+        "millennium:network": "Millennium",
+        "millennium:ref": "18156",
+        "millennium:subtype": "Euronet",
+        "name": "Bankomat Millennium",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8593588,
+          50.4440135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2561763336",
+      "properties": {
+        "@id": "node/2561763336",
+        "amenity": "atm",
+        "operator": "PKO S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9017036,
+          50.1703127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2569059466",
+      "properties": {
+        "@id": "node/2569059466",
+        "amenity": "atm",
+        "name": "Pekao S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4150981,
+          50.14374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2569071984",
+      "properties": {
+        "@id": "node/2569071984",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.414277,
+          50.1423397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2570468403",
+      "properties": {
+        "@id": "node/2570468403",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2468835,
+          50.2218673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2573778265",
+      "properties": {
+        "@id": "node/2573778265",
+        "amenity": "atm",
+        "fee": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8325162,
+          50.2410842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2588069496",
+      "properties": {
+        "@id": "node/2588069496",
+        "amenity": "atm",
+        "brand": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.208933,
+          50.0457797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2605072469",
+      "properties": {
+        "@id": "node/2605072469",
+        "amenity": "atm",
+        "brand": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9179677,
+          50.3461859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2609070385",
+      "properties": {
+        "@id": "node/2609070385",
+        "amenity": "atm",
+        "operator": "PKO S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3288403,
+          50.1055644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2610502418",
+      "properties": {
+        "@id": "node/2610502418",
+        "amenity": "atm",
+        "operator": "PKO S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3136376,
+          50.1032948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2611106123",
+      "properties": {
+        "@id": "node/2611106123",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7501765,
+          50.3061174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2613788814",
+      "properties": {
+        "@id": "node/2613788814",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2511613,
+          50.2115973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2613789159",
+      "properties": {
+        "@id": "node/2613789159",
+        "amenity": "atm",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2511788,
+          50.2146333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2617846106",
+      "properties": {
+        "@id": "node/2617846106",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "source": "Geoportal.gov ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5641354,
+          50.2628699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2632902397",
+      "properties": {
+        "@id": "node/2632902397",
+        "amenity": "atm",
+        "brand": "PKO BP",
+        "opening_hours": "24/7",
+        "source": "Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.234198,
+          50.2284606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2686453371",
+      "properties": {
+        "@id": "node/2686453371",
+        "amenity": "atm",
+        "name": "eCard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1731588,
+          50.3205798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2706848281",
+      "properties": {
+        "@id": "node/2706848281",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2245177,
+          50.0356971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2710393540",
+      "properties": {
+        "@id": "node/2710393540",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0200748,
+          50.2588164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750361413",
+      "properties": {
+        "@id": "node/2750361413",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6821169,
+          50.3038841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750626612",
+      "properties": {
+        "@id": "node/2750626612",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2068748,
+          50.0440465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750626618",
+      "properties": {
+        "@id": "node/2750626618",
+        "amenity": "atm",
+        "brand": "ING",
+        "name": "ING",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2066625,
+          50.0441474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2904886423",
+      "properties": {
+        "@id": "node/2904886423",
+        "amenity": "atm",
+        "name": "PKO S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.668584,
+          50.2247173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2917414001",
+      "properties": {
+        "@id": "node/2917414001",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1991966,
+          50.0276341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2929961126",
+      "properties": {
+        "@id": "node/2929961126",
+        "amenity": "atm",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8720336,
+          50.2700098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2949802932",
+      "properties": {
+        "@id": "node/2949802932",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9762992,
+          50.1176068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2954521111",
+      "properties": {
+        "@id": "node/2954521111",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9768199,
+          50.114459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2968597624",
+      "properties": {
+        "@id": "node/2968597624",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8330167,
+          50.454721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2968607064",
+      "properties": {
+        "@id": "node/2968607064",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8653846,
+          50.4332884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2968607295",
+      "properties": {
+        "@id": "node/2968607295",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.868046,
+          50.4248771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2968609275",
+      "properties": {
+        "@id": "node/2968609275",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9030539,
+          50.4002914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2968611244",
+      "properties": {
+        "@id": "node/2968611244",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8936562,
+          50.3993749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2969965438",
+      "properties": {
+        "@id": "node/2969965438",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9878575,
+          50.1116993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2969965439",
+      "properties": {
+        "@id": "node/2969965439",
+        "amenity": "atm",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9878405,
+          50.1117356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980884217",
+      "properties": {
+        "@id": "node/2980884217",
+        "addr:city": "Zawiercie",
+        "addr:housenumber": "95",
+        "addr:postcode": "42-400",
+        "addr:street": "Obrońców Poczty Gdańskiej",
+        "amenity": "atm",
+        "name": "Pekao",
+        "operator": "Pekao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4096023,
+          50.4762741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2995777062",
+      "properties": {
+        "@id": "node/2995777062",
+        "amenity": "atm",
+        "operator": "PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2605153,
+          50.2177101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2997535834",
+      "properties": {
+        "@id": "node/2997535834",
+        "amenity": "atm",
+        "name": "Bankomat ING",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2239581,
+          50.3363551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3027621894",
+      "properties": {
+        "@id": "node/3027621894",
+        "amenity": "atm",
+        "name": "Bankomat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6239431,
+          50.340023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3077266261",
+      "properties": {
+        "@id": "node/3077266261",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0066761,
+          50.2515939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3090364131",
+      "properties": {
+        "@id": "node/3090364131",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6714009,
+          50.2942705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3092952501",
+      "properties": {
+        "@id": "node/3092952501",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8859537,
+          50.178766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3102585052",
+      "properties": {
+        "@id": "node/3102585052",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1844817,
+          50.0354134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3123488588",
+      "properties": {
+        "@id": "node/3123488588",
+        "amenity": "atm",
+        "cash_in": "yes",
+        "operator": "Raiffeisen Polbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0214304,
+          50.2580249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162508511",
+      "properties": {
+        "@id": "node/3162508511",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "8A",
+        "addr:postcode": "32-500",
+        "addr:street": "Szarych Szeregów",
+        "amenity": "atm",
+        "name": "PKO Bank Polski",
+        "opening_hours": "24/7",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4053024,
+          50.1269117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3166490723",
+      "properties": {
+        "@id": "node/3166490723",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0128239,
+          50.2844524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168562275",
+      "properties": {
+        "@id": "node/3168562275",
+        "amenity": "atm",
+        "operator": "Pekao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4704326,
+          50.2777694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3195780169",
+      "properties": {
+        "@id": "node/3195780169",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0184,
+          50.2589176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3207946749",
+      "properties": {
+        "@id": "node/3207946749",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.964458,
+          50.2254923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3216939975",
+      "properties": {
+        "@id": "node/3216939975",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0046319,
+          50.2508231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221993269",
+      "properties": {
+        "@id": "node/3221993269",
+        "amenity": "atm",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0370226,
+          50.2435713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3225989929",
+      "properties": {
+        "@id": "node/3225989929",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0183684,
+          50.2593558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3246204062",
+      "properties": {
+        "@id": "node/3246204062",
+        "amenity": "atm",
+        "brand": "ING",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2395682,
+          50.0350979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3261683458",
+      "properties": {
+        "@id": "node/3261683458",
+        "amenity": "atm",
+        "operator": "PKO S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6671922,
+          50.2230434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3261683459",
+      "properties": {
+        "@id": "node/3261683459",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6667563,
+          50.2203877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278965453",
+      "properties": {
+        "@id": "node/3278965453",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "6",
+        "addr:street": "Armii Krajowej",
+        "amenity": "atm",
+        "name": "Euronet Polska",
+        "opening_hours": "24/7",
+        "operator": "Euronet Polska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4130052,
+          50.1323082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3330463402",
+      "properties": {
+        "@id": "node/3330463402",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0565028,
+          50.2585305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3330463423",
+      "properties": {
+        "@id": "node/3330463423",
+        "amenity": "atm",
+        "operator": "Grupa BPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0616059,
+          50.2592727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334862355",
+      "properties": {
+        "@id": "node/3334862355",
+        "amenity": "atm",
+        "brand": "PKO BP",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.974839,
+          50.2595227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3337457007",
+      "properties": {
+        "@id": "node/3337457007",
+        "amenity": "atm",
+        "operator": "Bank Spółdzielczy w Pszczynie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9108942,
+          50.0113778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3348270147",
+      "properties": {
+        "@id": "node/3348270147",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Planet Cash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9399413,
+          50.2717192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3348270171",
+      "properties": {
+        "@id": "node/3348270171",
+        "amenity": "atm",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-21:00",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9392919,
+          50.2731376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3348389819",
+      "properties": {
+        "@id": "node/3348389819",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6461302,
+          50.2315333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3365436568",
+      "properties": {
+        "@id": "node/3365436568",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "21",
+        "addr:postcode": "32-500",
+        "addr:street": "Krakowska",
+        "amenity": "atm",
+        "name": "PKO BP",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4081295,
+          50.1422902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3365897252",
+      "properties": {
+        "@id": "node/3365897252",
+        "amenity": "atm",
+        "drive_through": "no",
+        "name": "Euronet",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9310262,
+          50.2736059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3368907471",
+      "properties": {
+        "@id": "node/3368907471",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "26",
+        "addr:postcode": "32-500",
+        "addr:street": "Aleja Henryka",
+        "amenity": "atm",
+        "name": "PKO BP",
+        "operator": "PKO BP SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4011323,
+          50.1402052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3376812875",
+      "properties": {
+        "@id": "node/3376812875",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "55",
+        "addr:postcode": "32-500",
+        "addr:street": "Aleja Henryka",
+        "amenity": "atm",
+        "name": "Bankomat BPH",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.40043,
+          50.1379196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3376840136",
+      "properties": {
+        "@id": "node/3376840136",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "22",
+        "addr:postcode": "32-500",
+        "addr:street": "Aleja Henryka",
+        "amenity": "atm",
+        "name": "Bankomat Bank Spółdzielczy",
+        "operator": "BPS Leasing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4014319,
+          50.140849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3377697184",
+      "properties": {
+        "@id": "node/3377697184",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9299595,
+          50.2723934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3393653494",
+      "properties": {
+        "@id": "node/3393653494",
+        "amenity": "atm",
+        "name": "bankomat Eurobank",
+        "operator": "Eurobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1321418,
+          50.2906536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3398432852",
+      "properties": {
+        "@id": "node/3398432852",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2236802,
+          50.0389577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3409504464",
+      "properties": {
+        "@id": "node/3409504464",
+        "amenity": "atm",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1352045,
+          50.3804781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3426800244",
+      "properties": {
+        "@id": "node/3426800244",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "30d",
+        "addr:street": "Śląska",
+        "amenity": "atm",
+        "name": "Euronet",
+        "note": "Czynny bankomat w godzinach otwarcia placówki",
+        "opening_hours": "Mo-Sa 07:00-21:00,Su 09:00-20:00",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3975874,
+          50.144498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3426807106",
+      "properties": {
+        "@id": "node/3426807106",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "30",
+        "addr:street": "Świętokrzyska",
+        "amenity": "atm",
+        "name": "Bank Spółdzielczy",
+        "opening_hours": "24/7",
+        "operator": "BPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4035556,
+          50.1397916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3450792925",
+      "properties": {
+        "@id": "node/3450792925",
+        "amenity": "atm",
+        "drive_through": "no",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9384737,
+          50.2764636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3465654070",
+      "properties": {
+        "@id": "node/3465654070",
+        "amenity": "atm",
+        "name": "Euronet",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o.",
+        "source": "notes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7420054,
+          50.3701383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3465654071",
+      "properties": {
+        "@id": "node/3465654071",
+        "amenity": "atm",
+        "name": "Euronet",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o.",
+        "source": "notes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.743792,
+          50.3723173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3474641130",
+      "properties": {
+        "@id": "node/3474641130",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "44",
+        "addr:postcode": "32-500",
+        "addr:street": "Aleja Henryka",
+        "amenity": "atm",
+        "name": "Euronet",
+        "opening_hours": "Mo-Sa 07:00-21:00,Su 09:00-20:00",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3999914,
+          50.1382611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3479963344",
+      "properties": {
+        "@id": "node/3479963344",
+        "amenity": "atm",
+        "name": "ING Bank",
+        "operator": "ING Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9671136,
+          50.2742137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3479963345",
+      "properties": {
+        "@id": "node/3479963345",
+        "amenity": "atm",
+        "name": "Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.967237,
+          50.2740646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3479963346",
+      "properties": {
+        "@id": "node/3479963346",
+        "amenity": "atm",
+        "name": "Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9687417,
+          50.2736874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3491933562",
+      "properties": {
+        "@id": "node/3491933562",
+        "amenity": "atm",
+        "name": "Skok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2048834,
+          50.0360155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3542719958",
+      "properties": {
+        "@id": "node/3542719958",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2337489,
+          50.0343611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3582597136",
+      "properties": {
+        "@id": "node/3582597136",
+        "addr:city": "Świętochłowice",
+        "addr:housenumber": "158",
+        "addr:postcode": "41-600",
+        "addr:street": "Bukowa",
+        "amenity": "atm",
+        "drive_through": "no",
+        "name": "Planet Cash. Bankomat",
+        "operator": "Planet Cash. Bankomat",
+        "website": "https://plus.google.com/114440886228635517247/about?hl=pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9268066,
+          50.2723338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3612819558",
+      "properties": {
+        "@id": "node/3612819558",
+        "amenity": "atm",
+        "name": "Bankomat ING",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6265175,
+          50.1402354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3612819591",
+      "properties": {
+        "@id": "node/3612819591",
+        "amenity": "atm",
+        "name": "SKOK",
+        "operator": "SKOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6334458,
+          50.1427884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3613057298",
+      "properties": {
+        "@id": "node/3613057298",
+        "amenity": "atm",
+        "brand": "PKO",
+        "operator": "PKO S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.904594,
+          50.1697611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3625252015",
+      "properties": {
+        "@id": "node/3625252015",
+        "amenity": "atm",
+        "drive_through": "no",
+        "name": "Planet Cash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8537695,
+          50.3152563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3648824742",
+      "properties": {
+        "@id": "node/3648824742",
+        "amenity": "atm",
+        "brand": "ING",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2356753,
+          50.4686968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3651153419",
+      "properties": {
+        "@id": "node/3651153419",
+        "addr:housenumber": "47",
+        "addr:place": "Babice",
+        "addr:postcode": "32-551",
+        "addr:street": "Krakowska",
+        "amenity": "atm",
+        "name": "Bank Spółdzielczy",
+        "opening_hours": "24/7",
+        "operator": "BPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4501253,
+          50.070356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3653748916",
+      "properties": {
+        "@id": "node/3653748916",
+        "addr:housenumber": "4",
+        "addr:postcode": "32-500",
+        "addr:street": "Świętokrzyska",
+        "amenity": "atm",
+        "name": "Bankomat BGŻ",
+        "opening_hours": "24/7",
+        "operator": "BNP Paribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4044119,
+          50.1418395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3662405856",
+      "properties": {
+        "@id": "node/3662405856",
+        "amenity": "atm",
+        "name": "Bankomat PKO",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9330925,
+          50.32594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3663847568",
+      "properties": {
+        "@id": "node/3663847568",
+        "amenity": "atm",
+        "brand": "PKO Bank Polski",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.13467,
+          50.3211369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3663847569",
+      "properties": {
+        "@id": "node/3663847569",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1344762,
+          50.3214869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3665980422",
+      "properties": {
+        "@id": "node/3665980422",
+        "amenity": "atm",
+        "name": "Bankomat PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.880257,
+          50.3978668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3665980686",
+      "properties": {
+        "@id": "node/3665980686",
+        "amenity": "atm",
+        "name": "Bankomat ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8803916,
+          50.3964465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3665981296",
+      "properties": {
+        "@id": "node/3665981296",
+        "amenity": "atm",
+        "name": "Bankomat Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8804709,
+          50.3960743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3673881296",
+      "properties": {
+        "@id": "node/3673881296",
+        "amenity": "atm",
+        "drive_through": "no",
+        "name": "Bankomat",
+        "operator": "PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8722329,
+          50.3938509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3726601544",
+      "properties": {
+        "@id": "node/3726601544",
+        "addr:city": "Katowice",
+        "addr:country": "PL",
+        "addr:housenumber": "50",
+        "addr:street": "Chorzowska",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0160681,
+          50.2656096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3824564977",
+      "properties": {
+        "@id": "node/3824564977",
+        "addr:city": "Trzebinia",
+        "addr:street": "Leona Kruczkowskiego",
+        "amenity": "atm",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4455807,
+          50.1624365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3827057785",
+      "properties": {
+        "@id": "node/3827057785",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "name": "Euronet",
+        "opening_hours": "24/7",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.23128,
+          50.0358756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861298967",
+      "properties": {
+        "@id": "node/3861298967",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2320281,
+          50.033045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3889199681",
+      "properties": {
+        "@id": "node/3889199681",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2220671,
+          50.0382238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3893103758",
+      "properties": {
+        "@id": "node/3893103758",
+        "amenity": "atm",
+        "name": "PKO BP SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2365096,
+          50.4704118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3898929442",
+      "properties": {
+        "@id": "node/3898929442",
+        "amenity": "atm",
+        "name": "Bankomat PEKAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1574429,
+          50.2160775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3898986002",
+      "properties": {
+        "@id": "node/3898986002",
+        "addr:city": "Mysłowice",
+        "addr:housenumber": "2",
+        "addr:postcode": "41-412",
+        "addr:street": "Brzęczkowicka",
+        "amenity": "atm",
+        "brand": "EuroCash",
+        "name": "Bankomat EuroCash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1577718,
+          50.2153944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3908551023",
+      "properties": {
+        "@id": "node/3908551023",
+        "amenity": "atm",
+        "operator": "Bank Polskiej Spółdzielczości (BPS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.574765,
+          50.1348232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3919441857",
+      "properties": {
+        "@id": "node/3919441857",
+        "addr:city": "Trzebinia",
+        "addr:housenumber": "45",
+        "addr:street": "Tadeusza Kościuszki",
+        "amenity": "atm",
+        "name": "PKO Bank Polski",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4597096,
+          50.1570907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920520741",
+      "properties": {
+        "@id": "node/3920520741",
+        "amenity": "atm",
+        "name": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0161282,
+          50.2567366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3920520767",
+      "properties": {
+        "@id": "node/3920520767",
+        "amenity": "atm",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0174572,
+          50.2586886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3931337598",
+      "properties": {
+        "@id": "node/3931337598",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8820184,
+          50.2659042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3996013738",
+      "properties": {
+        "@id": "node/3996013738",
+        "addr:city": "Trzebinia",
+        "addr:housenumber": "93",
+        "addr:postcode": "32-540",
+        "addr:street": "Grunwaldzka",
+        "amenity": "atm",
+        "name": "Bankomat Bank Spółdzielczy",
+        "opening_hours": "24/7",
+        "operator": "Grupa BPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4270697,
+          50.1958688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4004236990",
+      "properties": {
+        "@id": "node/4004236990",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5654351,
+          50.2774345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4004236991",
+      "properties": {
+        "@id": "node/4004236991",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5654229,
+          50.2774364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4041023794",
+      "properties": {
+        "@id": "node/4041023794",
+        "amenity": "atm",
+        "drive_through": "no",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3830126,
+          50.2962583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4047728205",
+      "properties": {
+        "@id": "node/4047728205",
+        "amenity": "atm",
+        "name": "ING Bank Śląski",
+        "operator": "ING Bank Śląski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8514972,
+          50.3686243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4047738400",
+      "properties": {
+        "@id": "node/4047738400",
+        "amenity": "atm",
+        "name": "Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8501436,
+          50.3684575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4050176071",
+      "properties": {
+        "@id": "node/4050176071",
+        "amenity": "atm",
+        "name": "Bankomat BS",
+        "opening_hours": "24/7",
+        "operator": "BPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4088079,
+          50.1304304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4057895037",
+      "properties": {
+        "@id": "node/4057895037",
+        "addr:city": "Chrzanów",
+        "addr:housenumber": "16",
+        "addr:street": "Topolowa",
+        "amenity": "atm",
+        "name": "Bankomat Bank Spółdzielczy",
+        "opening_hours": "24/7",
+        "operator": "Grupa BPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4288476,
+          50.1371438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4058873589",
+      "properties": {
+        "@id": "node/4058873589",
+        "addr:city": "Libiąż",
+        "addr:housenumber": "23",
+        "addr:street": "Górnicza",
+        "amenity": "atm",
+        "name": "Bankomat Bank Pekao",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3304029,
+          50.0944694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4085412391",
+      "properties": {
+        "@id": "node/4085412391",
+        "addr:city": "Jaworzno",
+        "addr:housenumber": "80",
+        "addr:postcode": "43-608",
+        "addr:street": "Wygoda",
+        "amenity": "atm",
+        "name": "Euronet Polska",
+        "opening_hours": "24/7",
+        "operator": "Euronet Polska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2601359,
+          50.1530957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4102747861",
+      "properties": {
+        "@id": "node/4102747861",
+        "amenity": "atm",
+        "name": "Bankomat Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0046231,
+          50.2636828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4143115039",
+      "properties": {
+        "@id": "node/4143115039",
+        "amenity": "atm",
+        "name": "Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2314068,
+          50.0235875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4184065238",
+      "properties": {
+        "@id": "node/4184065238",
+        "addr:city": "Bieruń Stary",
+        "addr:housenumber": "3",
+        "addr:street": "Chemików",
+        "amenity": "atm",
+        "name": "PKO Bank Polski",
+        "opening_hours": "24/7",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0920086,
+          50.0890147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4202233189",
+      "properties": {
+        "@id": "node/4202233189",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1990278,
+          50.0277024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4218758690",
+      "properties": {
+        "@id": "node/4218758690",
+        "amenity": "atm",
+        "operator": "Bank Spółdzielczy w Wolbroniu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3939569,
+          50.4278182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4221210390",
+      "properties": {
+        "@id": "node/4221210390",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Bank BPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4791689,
+          50.1839601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4246001659",
+      "properties": {
+        "@id": "node/4246001659",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8526896,
+          50.2999769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4252843124",
+      "properties": {
+        "@id": "node/4252843124",
+        "amenity": "atm",
+        "name": "euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9084985,
+          50.3396934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4262443188",
+      "properties": {
+        "@id": "node/4262443188",
+        "amenity": "atm",
+        "name": "BZWBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9210598,
+          50.2896903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4262443210",
+      "properties": {
+        "@id": "node/4262443210",
+        "amenity": "atm",
+        "name": "BZWBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9210694,
+          50.2896815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4262443529",
+      "properties": {
+        "@id": "node/4262443529",
+        "amenity": "atm",
+        "name": "BZWBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9210834,
+          50.2896758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4281773088",
+      "properties": {
+        "@id": "node/4281773088",
+        "amenity": "atm",
+        "name": "PKO BP",
+        "operator": "PKO BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0235584,
+          50.267207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4283957295",
+      "properties": {
+        "@id": "node/4283957295",
+        "amenity": "atm",
+        "name": "Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0126408,
+          50.2789485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4283957510",
+      "properties": {
+        "@id": "node/4283957510",
+        "amenity": "atm",
+        "brand": "Bank Pekao S.A.",
+        "name": "Bank Pekao",
+        "opening_hours": "24/7",
+        "operator": "UniCredit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0239107,
+          50.2687713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4284862137",
+      "properties": {
+        "@id": "node/4284862137",
+        "amenity": "atm",
+        "operator": "PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9158673,
+          50.3058194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4304842640",
+      "properties": {
+        "@id": "node/4304842640",
+        "amenity": "atm",
+        "operator": "Bank Pekao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0207092,
+          50.2595702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4304892062",
+      "properties": {
+        "@id": "node/4304892062",
+        "amenity": "atm",
+        "operator": "Planet cash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0206525,
+          50.260026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4306420692",
+      "properties": {
+        "@id": "node/4306420692",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9894103,
+          50.2058816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4306442593",
+      "properties": {
+        "@id": "node/4306442593",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9885608,
+          50.2043461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4306557993",
+      "properties": {
+        "@id": "node/4306557993",
+        "amenity": "atm",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9878895,
+          50.2041281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4316213896",
+      "properties": {
+        "@id": "node/4316213896",
+        "amenity": "atm",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0075824,
+          50.2705827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4316213897",
+      "properties": {
+        "@id": "node/4316213897",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0075626,
+          50.2705479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4316242089",
+      "properties": {
+        "@id": "node/4316242089",
+        "amenity": "atm",
+        "operator": "WBK Bank Zachodni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0075377,
+          50.2705048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4316242090",
+      "properties": {
+        "@id": "node/4316242090",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.006828,
+          50.2695994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4316242091",
+      "properties": {
+        "@id": "node/4316242091",
+        "amenity": "atm",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0069174,
+          50.2699565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4327649389",
+      "properties": {
+        "@id": "node/4327649389",
+        "amenity": "atm",
+        "operator": "Planet cash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1138173,
+          50.2733559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4334599454",
+      "properties": {
+        "@id": "node/4334599454",
+        "amenity": "atm",
+        "name": "Bank Polski ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.009117,
+          50.101189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4339794209",
+      "properties": {
+        "@id": "node/4339794209",
+        "amenity": "atm",
+        "operator": "PKO Bank Polski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0172794,
+          50.2612293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4357832214",
+      "properties": {
+        "@id": "node/4357832214",
+        "amenity": "atm",
+        "description": "Bankomat zewnętrzny w budynku kasy ZOO",
+        "name": "Bankomat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9911563,
+          50.2802528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4360222103",
+      "properties": {
+        "@id": "node/4360222103",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0054965,
+          50.2713725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4364214609",
+      "properties": {
+        "@id": "node/4364214609",
+        "amenity": "atm",
+        "operator": "Bankomat PKO SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6576247,
+          50.2364626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4364217322",
+      "properties": {
+        "@id": "node/4364217322",
+        "amenity": "atm",
+        "name": "Euronet Polska Sp. z o. o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6589953,
+          50.2368414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4365551189",
+      "properties": {
+        "@id": "node/4365551189",
+        "amenity": "atm",
+        "name": "Bankomat ING",
+        "name:pl": "Bankomat ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9367097,
+          50.2675389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4365551290",
+      "properties": {
+        "@id": "node/4365551290",
+        "amenity": "atm",
+        "name": "Bankomat PKO",
+        "name:pl": "Bankomat PKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9362653,
+          50.2640286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4368572441",
+      "properties": {
+        "@id": "node/4368572441",
+        "amenity": "atm",
+        "name": "Euronet",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0091851,
+          50.2793589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4393229554",
+      "properties": {
+        "@id": "node/4393229554",
+        "amenity": "atm",
+        "brand": "Euronet",
+        "opening_hours": "24/7",
+        "operator": "Euronet Polska sp. z o.o",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9035159,
+          50.1673268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4395860489",
+      "properties": {
+        "@id": "node/4395860489",
+        "amenity": "atm",
+        "operator": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8318574,
+          50.2398731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4470937789",
+      "properties": {
+        "@id": "node/4470937789",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "PLANET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8947739,
+          50.2663481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4497070313",
+      "properties": {
+        "@id": "node/4497070313",
+        "amenity": "atm",
+        "currency:PLN": "yes",
+        "drive_through": "no",
+        "name": "Planet Cash",
+        "operator": "Planet Cash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.831261,
+          50.2398854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4542751661",
+      "properties": {
+        "@id": "node/4542751661",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.620315,
+          50.1393371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4553609441",
+      "properties": {
+        "@id": "node/4553609441",
+        "amenity": "atm",
+        "name": "24h",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.69806,
+          50.0282373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4573312974",
+      "properties": {
+        "@id": "node/4573312974",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2207841,
+          50.0388031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4581537774",
+      "properties": {
+        "@id": "node/4581537774",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1036384,
+          50.2848477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4605513940",
+      "properties": {
+        "@id": "node/4605513940",
+        "amenity": "atm",
+        "name": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9215996,
+          50.3465371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4627995170",
+      "properties": {
+        "@id": "node/4627995170",
+        "amenity": "atm",
+        "name": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0700742,
+          50.3210297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4640614984",
+      "properties": {
+        "@id": "node/4640614984",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Bank Spółdzielczy w Wolbromiu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5746105,
+          50.2697374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4674294791",
+      "properties": {
+        "@id": "node/4674294791",
+        "amenity": "atm",
+        "name": "Planet Cash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2753733,
+          50.2033154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4694103390",
+      "properties": {
+        "@id": "node/4694103390",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0358182,
+          50.245738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4720486494",
+      "properties": {
+        "@id": "node/4720486494",
+        "amenity": "atm",
+        "operator": "Euronet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1560245,
+          50.2956679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4733559421",
+      "properties": {
+        "@id": "node/4733559421",
+        "amenity": "atm",
+        "name": "BS 24h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0963742,
+          50.0587114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4735920201",
+      "properties": {
+        "@id": "node/4735920201",
+        "amenity": "atm",
+        "name": "ING Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8437026,
+          50.3655006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4736025780",
+      "properties": {
+        "@id": "node/4736025780",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7862529,
+          50.3278059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4741574955",
+      "properties": {
+        "@id": "node/4741574955",
+        "amenity": "atm",
+        "cash_in": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9762707,
+          50.2776692
+        ]
+      }
+    }
+  ]
+}
